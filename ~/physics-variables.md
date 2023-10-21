@@ -5,7 +5,7 @@ tags:
 ---
 # physics-variables
 
-### units
+## units
 
 > abbreviations of units are case sensitive
 
@@ -19,13 +19,13 @@ N  newton
 
 > okay, now that we know what abbreviations we use for the units, moving on to physics variables definitions
 
-### constants
+## constants
 
 $G$  gravitational constant  N*m^2/kg^2  6.67*10^-11
 
 ‍
 
-### variables
+## variables
 
 $\Delta d$  displacement  m  how much an object is displaced
 
@@ -49,13 +49,13 @@ $F_G$  force that applys to object due to gravity  N
 
 $U_G$  gravitational potential energy  J  potential energy due to gravity
 
-#### springs
+### springs
 
 $U_S$  elastic potential energy  J  potential energy due to displacement from equilibrium
 
 $k$  spring constant
 
-#### angular momentum
+### angular momentum
 
 $L$  angular momentum  kg*m/s  the momentum of an object about a specified axis
 
@@ -63,7 +63,7 @@ $r_\perp$  perpendicular distance from axis to the object's line of motion  m
 
 ‍
 
-#### harmonic motion
+### harmonic motion
 
 $A$  amplitude  m  maximum magnitude of displacement away from origin
 
@@ -71,12 +71,14 @@ $T$  period  s  amount of time needed to complete one cycle
 
 $f$  frequency  Hz  measures number of occurrences of a repeating event per
 
-##### pendulum
+#### pendulum
 
 $L$  length  m  measure of how long the string of the pendulum is
 
-##### waves
+#### waves
 
 $\lambda$  wavelength  m  measure how long each wave is
 
 $v$  wave velocity  m/s  velocity to measure how fast the waves travel
+
+
