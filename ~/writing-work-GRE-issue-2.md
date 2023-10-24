@@ -33,7 +33,6 @@ also, praising for positive actions may not be motivating or meaningful when the
 
 ignoring negative actions, however, is not the most effective approach, as teachers need to provide feedback and guidance to help students understand what they did wrong and help them improve. moreover, this could unintentionally convey the message that negative actions are acceptable
 
-## ideas
 
 I disagree with the statement that the best way to teach is to praise positive actions and ignore negative ones.
 

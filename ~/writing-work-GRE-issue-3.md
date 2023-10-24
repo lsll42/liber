@@ -25,7 +25,7 @@ However, this would require a lot of government spending that might result in op
 
 In conclusion, offering free college and university education can make education more accessible, and can have long-term benefits for society despite the strain in public budgets. I recommend that ; optimal approach is to weigh the pros and cons of each case and evaluate the potential outcomes and implications of each policy option.
 
-## .notes
+## notes
 
 if university education is free, then people would have free access to further education, which can further increase the rate of innovation, and makes the country more productive, this can create a more educated and skilled workforce that can contribute to the country's productivity and competitiveness.
 
@@ -33,9 +33,7 @@ if university education is free, then people would have free access to further e
 
 however, this would require a lot of government spending that might result in some opportunity loss for the government fiscal processes. it would be difficult for governments to fund such a program without raising taxes or cutting spending in other areas. some people may disagree with the recommendation that governments should offer college and university education free of charge to all students because it can strain public budgets, lower the quality of education, and create inefficiencies and inequities in the system.
 
-‍
 
-## ..ideas
 
 By eliminating tuition fees, governments can help students achieve their potential and pursue their passions without worrying about financial constraints.
 
@@ -105,7 +103,7 @@ In conclusion, I think that there is no definitive answer to whether governments
 
 ‍
 
-## ...references
+## references
 
 ‍
 

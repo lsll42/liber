@@ -23,7 +23,6 @@ In conclusion, while it is important for governments to encourage scientific inn
 need to consider both sides of the argument.
 innovation and discovery are important but there are also concerns for health, privacy and the environment.
 
-## ideas
 
 As the world keeps innovating and making a better future, scientific research is essential to new advancements in technology.
 
