@@ -3,7 +3,7 @@ aliases: []
 links: 
 tags: 
 ---
-# writing-scrapbook-notes-2
+# writing-scrapbook-notes-body-paragraphs
 
 Body paragraphs are the 'content' of your essay – after introducing your ideas, this is your chance to go into detail, draw on evidence from the text, and discuss Randa Abdel-Fattah's authorial intent.
 

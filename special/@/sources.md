@@ -5,5 +5,4 @@ tags:
 ---
 # sources
 
-[[sources-other]]
-
+[sources-other](sources-other.md)

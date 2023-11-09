@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# writing-scrapbook-notes-4-create-persuasive-text
+# writing-scrapbook-notes-create-persuasive-text
 
 |1. Group members and their group        roles (e.g. facilitator, time keeper, note taker)|
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

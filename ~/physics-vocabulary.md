@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# vocabulary-physics
+# physics-vocabulary
 
 elastic collision: A collision between bodies in which the total and kinetic energy of the bodies is conserved. This means there is no thermal energy, sound energy, and material deformation (these would require energy)
 

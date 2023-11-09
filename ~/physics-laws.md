@@ -21,7 +21,7 @@ tags:
 
 ‍
 
-​#work#​ #force#​
+#work #force​
 
 ​#law#​ the change in mechanical energy of a system is equal to the total work done on the system by all nonconservative forces.
 

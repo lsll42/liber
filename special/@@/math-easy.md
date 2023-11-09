@@ -5,4 +5,4 @@ tags:
 ---
 # math-easy
 
-[[math-polynomial]]
+[math-polynomial](math-polynomial.md)

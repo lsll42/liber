@@ -19,7 +19,6 @@ However, this method could potentially have unintended negative consequences on 
 
 In conclusion, the academic performance of students are not a suitable representation of the students' growth and shouldn't affect the salary of teachers.
 
-
 ## notes
 
 teachers need a suitable amount of salary that corresponds to the effort they've put in teaching their students.

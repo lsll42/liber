@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# writing-scrapbook-notes1
+# writing-scrapbook-notes-analytical-essay
 
 ## Argument
 

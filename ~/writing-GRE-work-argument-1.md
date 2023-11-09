@@ -25,9 +25,6 @@ what the implications are for the argument if the assumptions prove unwarranted.
 
 ## notes
 
-rear:
-
-warrant
 
 ## arguments
 

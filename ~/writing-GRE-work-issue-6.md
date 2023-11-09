@@ -13,7 +13,7 @@ Firstly, there may be different indicators to how great a nation is; for instanc
 
 Additionally, a successful nation must have equitable distributions of wealth and resources among its populace. A fair and just society, where individuals have equal opportunities for growth and development, fosters a sense of belonging and collective progress.
 
-However, it also needs to be mentioned that the welfare of a nation is dependent upon not only the welfare of its people, but also the accomplishments of its people, especially those who drive progress and innovation. For instance, a ruler who leads with integrity and wisdom can inspire their citizens to work towards achieving common goals. Similarly, artists and scientists who produce groundbreaking works can help to shape the cultural and intellectual landscape of a nation. 
+However, it also needs to be mentioned that the welfare of a nation is dependent upon not only the welfare of its people, but also the accomplishments of its people, especially those who drive progress and innovation. For instance, a ruler who leads with integrity and wisdom can inspire their citizens to work towards achieving common goals. Similarly, artists and scientists who produce groundbreaking works can help to shape the cultural and intellectual landscape of a nation.
 
 ## notes
 
@@ -101,4 +101,3 @@ Secondly, the achievements of the artists can also influence the general welfare
 
 Thirdly, the achievements of the scientists can also enhance the general welfare of the people. For example, a scientist who discovers a new phenomenon, invents a new technology, develops a new medicine, solves a new problem, or advances a new theory can contribute to the knowledge, progress, innovation, health, or welfare of humanity. Science can also be a means of exploration, curiosity,
 understanding, or enlightenment for the people.
-

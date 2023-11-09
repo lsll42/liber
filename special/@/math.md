@@ -5,5 +5,5 @@ tags:
 ---
 # math
 
-[[math-easy]]
-[[math-calculus]]
+[math-easy](math-easy.md)
+[math-calculus](math-calculus.md)

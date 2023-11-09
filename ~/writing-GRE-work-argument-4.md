@@ -4,7 +4,7 @@ links: ["[[writing-GRE]]"]
 tags: 
 ---
 
-# writing-work-GRE-argument-4
+# writing-GRE-work-argument-4
 
 The following appeared in a letter to the editor of a local newspaper. "Commuters complain that increased rush-hour traffic on Blue Highway between the suburbs and the city center has doubled their commuting time. The favored proposal of the motorists' lobby is to widen the highway, adding an additional lane of traffic. But last year's addition of a lane to the nearby Green Highway was followed by a worsening of traffic jams on it. A better alternative is to add a bicycle lane to Blue Highway. Many area residents are keen bicyclists. A bicycle lane would encourage them to use bicycles to commute, and so would reduce rush-hour traffic rather than fostering an increase." Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument
 
@@ -12,9 +12,23 @@ The following appeared in a letter to the editor of a local newspaper. "Commuter
 
 ## arguments
 
-## assumptions
+adding a new lane could possibly worsen traffic jams on Blue Highway.
 
+many local bicyclists could benefit from a bicycle lane and this would reduce traffic, which is a better option than to just add a new lane.
+## assumptions
+a bicycle lane would reduce rush hour traffic if a significant amount of commuters use bicycles as transport
+
+much like last year's Green Highway lane addition, Blue Highway may have more traffic jams if we add a new lane. this effect is actually counterintuitive and needs to be investigated further.
 ## essay
+
+In response to the worsening of traffic conditions on Blue Highway that doubled commuters' commuting time, the favored proposal was to add a new lane to Blue Highway. However, last year's lane addition to Green Highway seemed to have worsened traffic conditions there. What should we do?
+
+According to the argument in the prompt, there is an argument that a lane addition could worsen the traffic on Blue Highway because of how Green Highway had some complications with traffic when a new lane was added. This would require further investigation to examine how the addition of a new lane to Green Highway have caused such an unintended consequence, and to avoid this situation in the future.
+
+Moreover, the prompt argues that a bicycle lane could encourage commuters to use bicycles, and reduce traffic congestion on Blue Highway. This claim is based on several assumptions that may prove unwarranted and cannot support this argument. For instance, there may not be a significant amount of cyclists who want to use Blue Highway; there might be reasons why a bicycle lane on Blue Highway could prove unpopular and useless like air pollution, hard to navigate bicycle routes and stuff.
+
+In conclusion, we need to carefully analyze the effects of adding a new lane to Green Highway, compare it to the situation of Blue Highway, and determine whether we should add a new lane to Blue Highway. Similarly, we must theorize the effects of adding a bicycle lane 
+
 
 ## references
 

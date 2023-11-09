@@ -33,8 +33,6 @@ if university education is free, then people would have free access to further e
 
 however, this would require a lot of government spending that might result in some opportunity loss for the government fiscal processes. it would be difficult for governments to fund such a program without raising taxes or cutting spending in other areas. some people may disagree with the recommendation that governments should offer college and university education free of charge to all students because it can strain public budgets, lower the quality of education, and create inefficiencies and inequities in the system.
 
-
-
 By eliminating tuition fees, governments can help students achieve their potential and pursue their passions without worrying about financial constraints.
 
 One of the main advantages of free education is that it would make it more accessible to students from low-income families.

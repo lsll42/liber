@@ -5,6 +5,7 @@ tags:
 ---
 # writing
 
-[[writing-inspiration]]
-[[writing-GRE]]
-[[writing-scrapbook]]
+[writing-inspiration](writing-inspiration.md)
+[writing-GRE](writing-GRE.md)
+[writing-scrapbook](writing-scrapbook.md)
+[writing-other](writing-other.md)

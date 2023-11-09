@@ -3,9 +3,10 @@ aliases:
 links: 
 tags: 
 ---
-# math-calculus-limits-and-continuity
+## math-calculus-limits-and-continuity
+### math-calculus-limits-and-continuity
 
-## intro
+#### intro
 
 we have this function:
 
@@ -32,25 +33,25 @@ the above expression means that the bidirectional limit, (or just limit) as x ap
 
 ‍
 
-## calculating limits
+#### calculating limits
 
-### methods
+##### methods
 
-#### factoring
+###### factoring
 
 the following flowchart can help you decide which methods to use when calculating limits
 
 ‍​
-[[../assets/24f6433a6f8750bcf194188f5418e8e4_MD5.jpeg|Open: calculating-limits-flowchart.png]]
-![[../assets/24f6433a6f8750bcf194188f5418e8e4_MD5.jpeg]]
+[[calculus-finding-limit-flowchart.jpeg|Open: calculating-limits-flowchart.png]]
+![[calculus-finding-limit-flowchart.jpeg]]
 
-### examples
+##### examples
 
 *  link $\lim \limits_{x \to 6} \dfrac{x^2-10x+24}{x^2-4x-12}$
 
 ‍
 
-## references
+#### references
 
 [https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-new](https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-new)
 
@@ -58,11 +59,11 @@ the following flowchart can help you decide which methods to use when calculatin
 
 ‍
 
-## continuity
+#### continuity
 
 definition is here
 
-### continuity at a point
+##### continuity at a point
 
 see [this video](https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-new/bc-1-11/v/continuity-at-a-point)
 
@@ -70,7 +71,7 @@ see [this video](https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-new/b
 
 ‍
 
-## limits of combined functions
+#### limits of combined functions
 
 see [this video](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-5a/v/limits-of-combined-functions-piecewise)
 

@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# writing-scrapbook-notes-3
+# writing-scrapbook-notes-introductions-and-conclusions
 
 |* The role of your        introduction is toclearly answer the essay questionand offer somedirectionfor your essay - where is        your discussion going?* Give a broad        context/summary about the parts of the text that are important to this        essay question.* State yourcontentionand use the key words        from the prompt as much as possible.* Signpostthe ideas that you will        discuss in your body paragraphs.* Avoid using specific        quotes/details - 'save' these for later!* Use the author's name;        underline the title of the text.|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
