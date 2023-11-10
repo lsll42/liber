@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# physics-equations
+## physics-equations
 
 #momentum #mass #velocity
 
@@ -16,7 +16,6 @@ p = m * v
 $\Delta p=m*\Delta v=m(a*\Delta t)=F_{net}*\Delta t$
 
 ∆p = m * ∆v = m ( a * ∆t ) = F_net * ∆t
-
 
 #acceleration #velocity  #mass #time #distance
 
@@ -75,14 +74,13 @@ $T=2\pi\sqrt{\dfrac{L}{g}}$
 
 T = 2π * ( L / g ) ^ 0.5
 
-
 #waves #frequency #wavelength  #velocity
 
 $v=\lambda f$
 
 v = λ * f
 
-#string #wave #velocity 
+#string #wave #velocity
 
 v is velocity at which the wave travels on the string
 F_T is the tension of the spring
@@ -92,29 +90,24 @@ $v=\sqrt{\dfrac{F_T}{m/L}}$
 
 v = ( F_T / m/L )^0.5
 
-#gravity #mass 
+#gravity #mass
 
 R_S is the Schwarzschild radius of black hole
 G is gravitational constant
 c is speed of light
 m is mass of black hole
 
-
 $R_S=\dfrac{2Gm}{c^2}$
 
 R_S = 2 * G * m/c^2
 
-
-
-#gravity #velocity #radius #mass 
+#gravity #velocity #radius #mass
 
 v is speed of circular orbiting object
 
 $v=\sqrt{\dfrac{Gm_E}{r}}$
 
 v = ( G * m_e / r )^0.5
-
-
 
 #velocity #acceleration #circle #period
 
@@ -127,4 +120,3 @@ T is the period; how long it takes to complete one circular cycle
 $v=\dfrac{2\pi r}{T}$
 
 v = 2 * π * r / T
-
