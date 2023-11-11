@@ -18,11 +18,11 @@ Q4.4 When you fly in an airplane at night in smooth air, you have no sensation o
 the plane is a closed environment with constant acceleration. everything in the closed environment has the same acceleration so you have no sensation of motion. however, when the plane's acceleration changes, your inertia causes you to resist changes in acceleration, so you get pressed back to your seat.
 
 Q4.5 If the two ends of a rope in equilibrium are pulled with forces of equal magnitude and opposite directions, why isn’t the total tension in the rope zero?  
-
+although the acceleration of the rope is zero, tension is how much the rope is 
 
 Q4.6 You tie a brick to the end of a rope and whirl the brick around you in a horizontal circle. Describe the path of the brick after you suddenly let go of the rope.
 
-Q4.7 When a car stops suddenly, the passengers tend to move forward relative to their seats. Why? When a car makes a sharp turn, the passen- gers tend to slide to one side of the car. Why?  
+Q4.7 When a car stops suddenly, the passengers tend to move forward relative to their seats. Why? When a car makes a sharp turn, the passengers tend to slide to one side of the car. Why?  
 Q4.8 Some people say that the “force of inertia” (or “force of momen- tum”) throws the passengers forward when a car brakes sharply. What is wrong with this explanation?
 
 Q4.9 A passenger in a moving bus with no windows notices that a ball that has been at rest in the aisle suddenly starts to move toward the rear of the bus. Think of two possible explanations, and devise a way to de- cide which is correct.
