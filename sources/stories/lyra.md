@@ -1,4 +1,9 @@
-# lyra
+---
+aliases: 
+links: 
+tags: 
+---
+## lyra
 
 **One day a young angel, only three and a half billion years old,** very naive, with limited experience of the wide universe and eager for more, was called over by one of her elder brothers. “I have a special mission for you,” he said. “It is said that Life has appeared somewhere in the universe, in accordance with the purpose and timing of the Almighty. It is your task to seek out this Life, and when you find it, tell us so that we may visit the planet to nurture and guide it.”
 
