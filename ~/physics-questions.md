@@ -34,7 +34,10 @@ the bus is moving uphill and ball is pulled by gravity
 the bus acceleration changes so that ball moves
 
 Q4.10 Suppose you chose the fundamental physical quantities to be force, length, and time instead of mass, length, and time. What would be the units of mass in terms of those fundamental quantities?  
+newtons
+
 Q4.11 Why is the earth only approximately an inertial reference frame? Q4.12 Does Newton’s second law hold true for an observer in a van as it speeds up, slows down, or rounds a corner? Explain.
+
 
 Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion. Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain. Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls? Q4.25 True or false? You exert a push P on an object and it pushes back on you with a force F. If the object is moving at constant velocity, then F is equal to P, but if the object is being accelerated, then P must be greater than F.
 
