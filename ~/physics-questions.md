@@ -6,9 +6,11 @@ tags:
 # physics-questions
 
 Q4.1 Can an object be in equilibrium when only one force acts on it? Explain.
-
+this needs the vector sum of all the forces on the object to be zero, so if only one force acts upon it, then it is not i equilibrium.
 
 Q4.2 A ball thrown straight up has zero velocity at its highest point. Is the ball in equilibrium at this point? Why or why not?
+this needs the vector sum of all the forces on the object to be zero, so if only gravity acts upon it, then it is not i equilibrium.
+
 
 Q4.3 A helium balloon hovers in midair, neither ascending nor de- scending. Is it in equilibrium? What forces act on it?  
 Q4.4 When you fly in an airplane at night in smooth air, you have no sensation of motion, even though the plane may be moving at 800 km>h. Why?
