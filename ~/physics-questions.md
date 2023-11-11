@@ -11,13 +11,15 @@ this needs the vector sum of all the forces on the object to be zero, so if only
 Q4.2 A ball thrown straight up has zero velocity at its highest point. Is the ball in equilibrium at this point? Why or why not?
 this needs the vector sum of all the forces on the object to be zero, so if only gravity acts upon it, then it is not i equilibrium.
 
-Q4.3 A helium balloon hovers in midair, neither ascending nor de- scending. Is it in equilibrium? What forces act on it?  
+Q4.3 A helium balloon hovers in midair, neither ascending nor descending. Is it in equilibrium? What forces act on it?  
 this needs the vector sum of all the forces on the object to be zero. there's the lift provided by the hot air and the pull of gravity, which are the same, so it is in equilibrium.
 
 Q4.4 When you fly in an airplane at night in smooth air, you have no sensation of motion, even though the plane may be moving at 800 km>h. Why?
-the plane is a closed environment with constant acceleration. everything in the closed environment has the same acceleration so you have no sensation of motion. however, when the plane's acceleration changes,
+the plane is a closed environment with constant acceleration. everything in the closed environment has the same acceleration so you have no sensation of motion. however, when the plane's acceleration changes, your inertia causes you to resist changes in acceleration, so you get pressed back to your seat.
 
 Q4.5 If the two ends of a rope in equilibrium are pulled with forces of equal magnitude and opposite directions, why isn’t the total tension in the rope zero?  
+
+
 Q4.6 You tie a brick to the end of a rope and whirl the brick around you in a horizontal circle. Describe the path of the brick after you suddenly let go of the rope.
 
 Q4.7 When a car stops suddenly, the passengers tend to move forward relative to their seats. Why? When a car makes a sharp turn, the passen- gers tend to slide to one side of the car. Why?  
