@@ -21,11 +21,17 @@ Q4.5 If the two ends of a rope in equilibrium are pulled with forces of equal ma
 although the acceleration of the rope is zero, tension is how much the rope is 
 
 Q4.6 You tie a brick to the end of a rope and whirl the brick around you in a horizontal circle. Describe the path of the brick after you suddenly let go of the rope.
+without the tension of the rope the brick would accelerate towards the direction of the rope when it was released.
 
 Q4.7 When a car stops suddenly, the passengers tend to move forward relative to their seats. Why? When a car makes a sharp turn, the passengers tend to slide to one side of the car. Why?  
+inertia; see Q4.4
+
 Q4.8 Some people say that the “force of inertia” (or “force of momen- tum”) throws the passengers forward when a car brakes sharply. What is wrong with this explanation?
+the change in acceleration causes this, not inertia.
 
 Q4.9 A passenger in a moving bus with no windows notices that a ball that has been at rest in the aisle suddenly starts to move toward the rear of the bus. Think of two possible explanations, and devise a way to de- cide which is correct.
+the bus is moving uphill and ball is pulled by gravity
+the bus acceleration changes so that ball moves
 
 Q4.10 Suppose you chose the fundamental physical quantities to be force, length, and time instead of mass, length, and time. What would be the units of mass in terms of those fundamental quantities?  
 Q4.11 Why is the earth only approximately an inertial reference frame? Q4.12 Does Newton’s second law hold true for an observer in a van as it speeds up, slows down, or rounds a corner? Explain.
