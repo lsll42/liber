@@ -3,21 +3,21 @@ aliases:
 links: 
 tags: 
 ---
-# physics-energy-and-work
+## physics-energy-and-work
 
 ‍
 
-# work
+## work
 
 work: change in energy by the transfer of energy from one system to another
 
 power: the rate in which work is done over time, in joules per second, a watt
 
-# energy
+## energy
 
 energy: measurement of the ability to do work
 
-#### types of energy
+### types of energy
 
 * kinetic #energy#​ - energy stored as object's motion
 

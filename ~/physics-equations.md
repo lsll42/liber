@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-equations
 ## physics-equations
 
 #momentum #mass #velocity

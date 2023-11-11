@@ -3,7 +3,7 @@ aliases:
 links: 
 tags: 
 ---
-# physics-examples
+## physics-examples
 
 #momentum #mass #velocity
 a bowler releases a 7kg bowling ball from rest to a final velocity of 8m/s
