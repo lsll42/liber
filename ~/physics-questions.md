@@ -66,7 +66,7 @@ Figure Q4.31 100 N
 A
 B
 
-Problems 151
+## Problems
 
 9.8 m>s . What is wrong with this view?
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
@@ -77,55 +77,27 @@ Q4.21 When a string barely strong enough lifts a heavy weight, it can lift the w
 
 Q4.16 Students sometimes say that the force of gravity on an object is 2
 
-152 CHAPTER 4 Newton’s Laws of Motion
-
 Q4.36 In a head-on collision between a compact 1000 kg car and a large 2500 kg car, which one experiences the greater force? Explain. Which one experiences the greater acceleration? Explain why. Why are passengers in the small car more likely to be injured than those in the large car, even when the two car bodies are equally strong?
 
 Q4.37 Suppose you are in a rocket with no windows, traveling in deep space far from other objects. Without looking outside the rocket or making any contact with the outside world, explain how you could determine whether the rocket is (a) moving forward at a constant 80% of the speed of light and (b) accelerating in the forward direction.
 
-EXERCISES
 
-Section 4.1 Force and Interactions
 4.1 •• Two dogs pull horizontally on ropes attached to a post; the angle between the ropes is 51.0°. If Rover exerts a force of 288 N and Fido exerts a force of 324 N, find the magnitude of the resultant force
 
 and the angle it makes with Rover’s rope.
 4.2 • To extricate an SUV stuck in the mud, workmen use three horizontal ropes, producing the force vectors shown in Fig. E4.2. (a) Find the xand y-components of each of the three pulls. (b) Use the components to find the magnitude and direction of the resultant of the three pulls.
 
-SSS 4.5 • Forces F1 and F2 act at a point. The magnitude of F1 is 8.00 N, and its direction is 64.0° above the x-axis in the second quadS
-rant. The magnitude of F2 is 5.40 N, and its direction is 53.9° below the x-axis in the third quadrant. (a) What are the xand y-components of the resultant force? (b) What is the magnitude of the resultant force?
+SSS 4.5 • Forces F1 and F2 act at a point. The magnitude of F1 is 8.00 N, and its direction is 64.0° above the x-axis in the second quadrant. The magnitude of F2 is 5.40 N, and its direction is 53.9° below the x-axis in the third quadrant. (a) What are the xand y-components of the resultant force? (b) What is the magnitude of the resultant force?
 
 Section 4.3 Newton’s Second Law
+
 4.6 • An electron 1mass = 9.11 * 10 kg2 leaves one end of a -31
 TV picture tube with zero initial speed and travels in a straight line to the accelerating grid, which is 1.80 cm away. It reaches the grid with a speed of 3.00 * 10 m>s. If the accelerating force is constant, compute 6
 (a) the acceleration; (b) the time to reach the grid; and (c) the net force, in newtons. Ignore the gravitational force on the electron.
+
 4.7 •• A 68.5 kg skater moving initially at 2.40 m>s on rough horizontal ice comes to rest uniformly in 3.52 s due to friction from the ice. What force does friction exert on the skater?
+
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
+
 4.9 • A box rests on a frozen pond, which serves as a frictionless horizontal surface. If a fisherman applies a horizontal force with magnitude 50.0 N to the box and produces an acceleration of magnitude 3.60 m>s , what is the mass of the box?
-2
-4.10 •• A dockworker applies a constant horizontal force of 80.0 N to a block of ice on a smooth horizontal floor. The frictional force is negligible. The block starts from rest and moves 11.0 m in 5.00 s. (a) What is
 
-Figure E4.2
-
-y
-
-788 N
-32°
-
-53° 411 N
-
-4.3 • BIO Jaw Injury. Due to a jaw
-Figure E4.3 injury, a patient must wear a strap (Fig.
-E4.3) that produces a net upward force
-of 5.00 N on his chin. The tension is the
-
-same throughout the strap. To what ten-
-sion must the strap be adjusted to provide
-the necessary upward force?
-4.4 • A man is dragging a trunk up the
-loading ramp of a mover’s truck. The
-75.0°
-ramp has a slope angle of 20.0°, and
-the man pulls upward with a force FS
-whose direction makes an angle of 30.0°
-with the ramp (Fig. E4.4). (a) How large a force FS
-is necessary for the component Fx parallel to the ramp to be 90.0 N? (b) How large will the component Fy perpendicular to the ramp be then?
