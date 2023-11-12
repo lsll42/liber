@@ -1,10 +1,15 @@
-# board games
+---
+aliases: 
+links: 
+tags: 
+---
+## board games
 
 This article is about board games, how they are designed and played, but most importantly how they are talked about. My goal in writing it is to help people who give reviews of board games to give better ones. My thesis will be that games produce certain subjective qualities of experience, and that a good board game review should analyze and expose these subjective qualities in an objective way.
 
 Since this article makes sweeping judgments on the nature of board games, you might wonder whether I’m the kind of person you should listen to about this sort of thing. I’m not so sure I am, but here are my qualifications. I’ve been an avid eurogamer (if that’s still a word) for about twenty years. I’ve designed a few games informally but never published one. Over that same period I’ve worked in video game development and designed or helped design many video games. You’ve probably heard of at least one of the titles I’ve worked on: Ultima Online, Brothers in Arms, Crush the Castle, and Doug dug are some of the more popular ones. I’ve also taught game development at the Guildhall at Southern Methodist University. I think it’s probably fair to say that I understand video game design and development well, but in the realm of board games I am merely a passionate amateur. Take my comments, therefore, for what they’re worth.
 
-## The Problem with Board Game Reviews
+### The Problem with Board Game Reviews
 
 The problem with board game reviews is that they usually tell us almost nothing about whether we’ll enjoy a game.
 
@@ -22,7 +27,7 @@ What we need is a better understanding of what makes a game “good” or “bad
 
 A full understanding and a complete vocabulary of game criticism is not only beyond the scope of this article but beyond this scope of this writer. But here are some initial thoughts that may help fuel better reviews.
 
-## What is a Board Game?
+### What is a Board Game?
 
 A board game is a set of objects and instructions intended to produce a certain experience for a group of people, an experience with certain mental, imaginative, social, physical, and emotional qualities.
 
@@ -42,13 +47,13 @@ A board game, then, is a set of objects and instructions that produces, or works
 
 In order to critique board games well we need to understand what makes up an “experience” in the way I’ve been using the word, and how games produce these experiences.
 
-## The Qualities of an Experience
+### The Qualities of an Experience
 
 I find it helpful to analyze a board gaming experience in terms of five distinct but interrelated qualities: mental, imaginative, social, physical, and emotional. Each of these qualities answers the question, “What is the game like to play?” from a different aspect of human awareness. I am not here using the word “quality” to speak of a game’s goodness or badness—it’s quality as a product—but in the more philosophical sense of the word. A quality of a board game experience is simply something that marks that experience, something that makes it what it is. A game’s “quality” tells us what the game is like.
 
 Here are the five qualities I find most useful.
 
-### The Mental Quality
+#### The Mental Quality
 
 The mental quality of an experience is perhaps the one we most readily associate with board games. What does the game do to our minds? What kinds of thoughts, analyses, calculations, or judgments does it elicit?
 
@@ -60,13 +65,13 @@ Ticket to Ride, on the other hand, is a game of unbroken focus. Turns are design
 
 The mental quality of the experience produced by a game, then, is how the game feels to play—”feels” not emotionally, but mentally. It is what the game does to our minds.
 
-### The Imaginative Quality
+#### The Imaginative Quality
 
 Game designers and reviewers often talk about a game’s “thematic” elements, by which we mean its setting, story, mood, and artwork. The game’s theme is what gives the game a grip on your imagination. Any game can be boiled down to abstract tokens and counters; its theme connects these symbols to elements in your memory—whether realistic or fantastical—that help give meaning to the mechanics and amplify the game’s appeal. Reiner Knizia’s [Lord of the Rings](https://boardgamegeek.com/boardgame/823), for example, is generally well loved; but who would play it if the players weren’t invited to imagine themselves as hobbits adventuring under the ominous shadow of Sauron? [Lewis and Clark’s](https://boardgamegeek.com/boardgame/140620) or [Francis Drake’s](https://boardgamegeek.com/boardgame/140603) historical attachments are surely part of their appeal.
 
 The imaginative experience provided by a game is usually captured sufficiently by its marketing text. Reviews need not dwell on this aspect other than to point out unusual successes or failures in achieving the desired imaginative effect. Players tend to be highly tolerant of thematic failures. What, for example, are players really doing in Ticket to Ride when they lay out train cars, and in what sense are they using “tickets” to reach “destinations” (both words invoking the language of tourism rather than of industry)? The imaginative effects of a game are often best left unanalyzed. Yet sometimes a game’s thematic peculiarities are significant to the overall quality of the experience. Hardly anyone can emerge from [Spyfall](https://boardgamegeek.com/boardgame/166384), for instance, without asking why a spy of all people is so blind, deaf, and ignorant as to not be able to recognize his current location. Therefore designers, reviewers, and critics should be mindful of a game’s imaginative quality; but this is one quality of experience that is already recognized as an important aspect of game design.
 
-### The Social Quality
+#### The Social Quality
 
 The effect a game has on any particular group of people tends to be varied and unpredictable. Individuals are complex; when they mix, their complexity multiplies. A game—say, [Pit](https://boardgamegeek.com/boardgame/140)—that is uproarious good fun among cheerful, extraverted, perhaps tipsy old friends may produce nervous caution and hurt feelings amongst unfamiliar introverts. Yet game designers are, if nothing else, responsible for crafting games in such a way that the game lures diverse groups into a more or less common experience. When we talk about games, we must think carefully about what the game does to shape the social experience of the players and consider what types of individuals and groups are likely to accept, enjoy, reject, or dislike that experience.
 
@@ -87,7 +92,7 @@ I believe there is still much to be discovered in this area, but when talking ab
 
 These kinds of questions help uncover in an objective way the subjective social experience a game tends to engender.
 
-### The Physical Quality
+#### The Physical Quality
 
 Gamers and reviewers describe some games as “fiddly”. Sometimes this is praise: the game is full of objects that are pleasing to hold and manipulate, a lot of manipulation is required, and there is perhaps a Zen-like or OCD pleasure in moving pieces around. Sometimes it’s a complaint: the game has too many objects that are constantly falling over, are difficult to manipulate, and we spend a lot of time moving things around.
 
@@ -101,21 +106,21 @@ Anyone who has ever restocked the resources of Power Grid knows the truth of thi
 
 [Caverna](https://boardgamegeek.com/boardgame/102794), likewise, is to great extent an exercise in the scattering and gathering of little objects. Again this is often a social effort: one player distributes wood, another rubies, another animals. It is tedious, yet after a while becomes almost ceremonial. Meditative players quote [Ecclesiastes](https://www.biblegateway.com/passage/?search=eccl+3&version=NIV) (or [the Byrds](https://youtu.be/W4ga_M5Zdn4)) while preparing for the round:
 
-> There is a time for everything,  
+> There is a time for everything,
 > and a season for every activity under the heavens:
-> 
-> > a time to be born and a time to die,  
-> > a time to plant and a time to uproot,  
-> > a time to kill and a time to heal,  
-> > a time to tear down and a time to build,  
-> > a time to weep and a time to laugh,  
-> > a time to mourn and a time to dance,  
-> > a time to scatter stones and a time to gather them,  
+>
+> > a time to be born and a time to die,
+> > a time to plant and a time to uproot,
+> > a time to kill and a time to heal,
+> > a time to tear down and a time to build,
+> > a time to weep and a time to laugh,
+> > a time to mourn and a time to dance,
+> > a time to scatter stones and a time to gather them,
 > > a time to embrace and a time to refrain from embracing.
 
 Some games—large ones, often military ones—invite standing and wandering around the board. Thoughtful games bring players’ elbows onto tables and hands to beards and earlobes. Laughter makes people spread out, lean back, and turn toward each other. A board game is a physical experience, and an observant critic will take the game’s physical effects into account when preparing a review.
 
-### The Emotional Quality
+#### The Emotional Quality
 
 It may be a fault in my own constitution that leads me to relegate emotion to the last place in this list. But I can see no way around it: of all the effects a board game produces in players, emotion seems to me the most subjective, varied, unpredictable and, frankly, meager. Board games often elicit the thrill of victory and the agony of defeat, but apart from these direct reactions to the gameplay itself they are strangely unemotional beasts. When has a board game ever made you cry? Movies have; books may have; video games, even, may have. I’ve never heard of anyone crying because of a board game, unless it was because they lost.
 
@@ -129,7 +134,7 @@ But these are whispers, mere hints of emotion as compared with the deluge we rec
 
 Therefore when you recall and report to others the emotions that a game produced in you, be careful to separate the extrinsic and purely subjective experiences of triumph and failure from the emotions intrinsic to the design of the game. Someone has to feel these emotions each time we play, but the fact that they feel them tells us nothing about the game. These strong emotions are vivid to us but useless to others. Instead, the underlying emotions that are connected either to the theme or to the mechanics in association with the theme will be far more subtle and more difficult to pinpoint, but far more useful to other players.
 
-## How to Write a Good Review
+### How to Write a Good Review
 
 How, then, do we critique board games well?
 
@@ -149,11 +154,11 @@ Once you’ve analyzed the game in this way, turn your attention to the many dif
 
 It’s true that some games are simply bad: mechanically broken, with a dull or incoherent theme, tending to promote social strife, having too many fiddly (in the bad sense) components, emotionally depressing. And it’s true that some games are simply good: well-loved by a wide range of people over a long term of play. But you should assume that most of the games you play are somewhere in the middle. Most games are decent, they deserve to be played by someone, they will be adored by some and hated by others and met with indifference by most. Your task in reviewing games is to help your friends and fellow games identify whether this is a game that they, personally, within their unique game groups, are likely to love or hate or view with indifference. Show them the kind of experience the game works to offer and show it to them in such a way that they can find themselves in the mix and decide whether it will be a good game for them.
 
-## An Example Review
+### An Example Review
 
 As an example of the principles I’ve outlined above, let me offer this brief review of [Spyfall](https://boardgamegeek.com/boardgame/166384). The review consists of three sections: the essentials, which outlines the facts of the game, its publication information, description, and a brief synopsis of the rules; what it’s like to play, which uses the five qualities of experience to analyze the game’s objective strengths and weaknesses; and who will love and hate it, which uses this analysis to identify different types of players who will respond well or poorly to Spyfall.
 
-### The Essentials
+#### The Essentials
 
 Spyfall is a 2014 game for 3 to 8 players by Alexandr Ushan, published by Hobby World (among others). It is a card game with strongly social elements, almost a party game. A round takes up to 15 minutes.
 
@@ -167,7 +172,7 @@ The Spy wins if he is able to identify the location before the other players ide
 
 Out of these simple mechanics a game with rich social dynamics emerges.
 
-### What It’s Like to Play
+#### What It’s Like to Play
 
 The non-Spy players’ experience is very different from the Spy’s.
 
@@ -201,7 +206,7 @@ Wedding Crasher would be another option: you are chatting with wedding attenders
 
 In any case, I tend to doubt whether a game’s theme ever truly makes or breaks it; I don’t think anyone is substantially less likely to play Spyfall because its theme doesn’t match its mechanics. But the disconnect is bigger than in most games, and should be food for thought for designers even if not for potential players.
 
-### Who Will Love and Hate It
+#### Who Will Love and Hate It
 
 Personally I enjoy Spyfall. I’ve played perhaps a dozen rounds and would happily play many more. But there are individuals and groups who will love it and some who should probably avoid it.
 

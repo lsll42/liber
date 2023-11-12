@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-questions
 ## physics-questions
 
 Q4.1 Can an object be in equilibrium when only one force acts on it? Explain.
