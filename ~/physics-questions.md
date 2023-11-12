@@ -3,8 +3,8 @@ aliases:
 links: 
 tags: 
 ---
-# physics-questions
-## understanding 4
+## physics-questions
+### understanding 4
 
 Q4.1 Can an object be in equilibrium when only one force acts on it? Explain.
 this needs the vector sum of all the forces on the object to be zero, so if only one force acts upon it, then it is not i equilibrium.
@@ -61,8 +61,7 @@ box B equal to 100 N, greater than 100 N, or less than 100 N? Explain. Q4.31 A m
 Q4.32 If your hands are wet and no towel is handy, you can remove some of the excess water by shaking them. Why does this work?
 Q4.33 If you squat down (such as when you examine the books on a bottom shelf) and then suddenly get up, you may temporarily feel light-headed. What do Newton’s laws of motion have to say about why this happens? Q4.34 When a car is hit from behind, the occupants may experience whiplash. Use Newton’s laws of motion to explain what causes this result. Q4.35 In a head-on auto collision, passengers who are not wearing seat belts may be thrown through the windshield. Use Newton’s laws of motion to explain why this happens.
 
-
-## exercises 4
+### exercises 4
 
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
 ≈
@@ -77,7 +76,6 @@ Q4.16 Students sometimes say that the force of gravity on an object is 2
 Q4.36 In a head-on collision between a compact 1000 kg car and a large 2500 kg car, which one experiences the greater force? Explain. Which one experiences the greater acceleration? Explain why. Why are passengers in the small car more likely to be injured than those in the large car, even when the two car bodies are equally strong?
 
 Q4.37 Suppose you are in a rocket with no windows, traveling in deep space far from other objects. Without looking outside the rocket or making any contact with the outside world, explain how you could determine whether the rocket is (a) moving forward at a constant 80% of the speed of light and (b) accelerating in the forward direction.
-
 
 4.1 •• Two dogs pull horizontally on ropes attached to a post; the angle between the ropes is 51.0°. If Rover exerts a force of 288 N and Fido exerts a force of 324 N, find the magnitude of the resultant force
 
@@ -97,4 +95,3 @@ TV picture tube with zero initial speed and travels in a straight line to the ac
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
 
 4.9 • A box rests on a frozen pond, which serves as a frictionless horizontal surface. If a fisherman applies a horizontal force with magnitude 50.0 N to the box and produces an acceleration of magnitude 3.60 m>s , what is the mass of the box?
-
