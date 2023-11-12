@@ -62,10 +62,11 @@ Q4.32 If your hands are wet and no towel is handy, you can remove some of the ex
 Q4.33 If you squat down (such as when you examine the books on a bottom shelf) and then suddenly get up, you may temporarily feel light-headed. What do Newton’s laws of motion have to say about why this happens? Q4.34 When a car is hit from behind, the occupants may experience whiplash. Use Newton’s laws of motion to explain what causes this result. Q4.35 In a head-on auto collision, passengers who are not wearing seat belts may be thrown through the windshield. Use Newton’s laws of motion to explain why this happens.
 
 
-## exercoses 4
+## exercises 4
 
-9.8 m>s . What is wrong with this view?
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
+
+
 Q4.18 “It’s not the fall that hurts you; it’s the sudden stop at the bottom.” Translate this saying into the language of Newton’s laws of motion.
 Q4.19 A person can dive into water from a height of 10 m without injury, but a person who jumps off the roof of a 10-m-tall building and lands on a concrete street is likely to be seriously injured. Why is there a difference?
 Q4.20 Why are cars designed to crumple in front and back for safety? Why not for side collisions and rollovers?
