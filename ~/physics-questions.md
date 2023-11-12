@@ -4,7 +4,7 @@ links:
 tags: 
 ---
 # physics-questions
-## physics-questions
+## understanding 4
 
 Q4.1 Can an object be in equilibrium when only one force acts on it? Explain.
 this needs the vector sum of all the forces on the object to be zero, so if only one force acts upon it, then it is not i equilibrium.
@@ -61,12 +61,8 @@ box B equal to 100 N, greater than 100 N, or less than 100 N? Explain. Q4.31 A m
 Q4.32 If your hands are wet and no towel is handy, you can remove some of the excess water by shaking them. Why does this work?
 Q4.33 If you squat down (such as when you examine the books on a bottom shelf) and then suddenly get up, you may temporarily feel light-headed. What do Newton’s laws of motion have to say about why this happens? Q4.34 When a car is hit from behind, the occupants may experience whiplash. Use Newton’s laws of motion to explain what causes this result. Q4.35 In a head-on auto collision, passengers who are not wearing seat belts may be thrown through the windshield. Use Newton’s laws of motion to explain why this happens.
 
-Figure Q4.31 100 N
 
-A
-B
-
-## Problems
+## exercoses 4
 
 9.8 m>s . What is wrong with this view?
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
