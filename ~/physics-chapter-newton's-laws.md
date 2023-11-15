@@ -15,3 +15,5 @@ if object A exerts a force on object B, then object B exerts a force of same mag
 
 
 
+
+
