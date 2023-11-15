@@ -1,4 +1,10 @@
-# i saw a postm... 20231115161203
+---
+aliases: 
+links: 
+tags: 
+---
+## i saw a postm... 20231115161203
+
 **Forwarded from [sublimeclemency 🎄](https://t.me/sublimeclemency)**
 
 i saw a postman today.
