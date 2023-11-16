@@ -1,4 +1,10 @@
-# physics-chapter-newton's-laws
+---
+aliases: 
+links: 
+tags: 
+---
+## physics-chapter-newton's-laws
+
 what causes objects to move the way that they do?
 
 ### newton's first law
@@ -13,3 +19,4 @@ if a net external force acts on an object, the object's acceleration will change
 
 if object A exerts a force on object B, then object B exerts a force of same magnitude but opposite direction on object A. these two forces act on objects A and B.
 
+oa

@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-laws
 ## physics-laws
 
 ### these laws are always to be obeyed in physics
