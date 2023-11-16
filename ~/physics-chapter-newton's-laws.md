@@ -13,7 +13,7 @@ if a net external force acts on an object, the object's acceleration will change
 
 if object A exerts a force on object B, then object B exerts a force of same magnitude but opposite direction on object A. these two forces act on objects A and B.
 
-
+truthordare.truth()
 
 
 
