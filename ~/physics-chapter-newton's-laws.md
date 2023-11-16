@@ -13,7 +13,15 @@ if a net external force acts on an object, the object's acceleration will change
 
 if object A exerts a force on object B, then object B exerts a force of same magnitude but opposite direction on object A. these two forces act on objects A and B.
 
+while 1:
+        thing = truthordare.truth()
+        with open('truthordare','r') as file:
+            ids = file.read()
 
+        if thing['id'] not in ids:
+            with open('truthordare','a') as write:
+                write.write('\n'+thing['id'])
+            break
 
 
 
