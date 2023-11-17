@@ -120,3 +120,7 @@ T is the period; how long it takes to complete one circular cycle
 $v=\dfrac{2\pi r}{T}$
 
 v = 2 * π * r / T
+
+
+#energy #spring #distance 
+
