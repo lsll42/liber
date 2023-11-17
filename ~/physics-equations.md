@@ -124,3 +124,11 @@ v = 2 * π * r / T
 
 #energy #spring #distance 
 
+U_S is elastic potential energy stored in spring
+k is the spring constant
+d is the displacement of one end of the spring (compression distance)
+
+$U_S=\dfrac{kd^2}{2}$
+
+U_S = 0.5 * k * d^2
+
