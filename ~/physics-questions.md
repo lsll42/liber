@@ -65,7 +65,7 @@ Q4.33 If you squat down (such as when you examine the books on a bottom shelf) a
 ### exercises 4
 
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
-
+Bid rocks have more mass and therefore a greater amount of force is needed to accelerate it. 
 
 Q4.18 “It’s not the fall that hurts you; it’s the sudden stop at the bottom.” Translate this saying into the language of Newton’s laws of motion.
 Q4.19 A person can dive into water from a height of 10 m without injury, but a person who jumps off the roof of a 10-m-tall building and lands on a concrete street is likely to be seriously injured. Why is there a difference?
