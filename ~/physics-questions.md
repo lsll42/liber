@@ -140,8 +140,11 @@ Q8.18 In Example 8.4 (Section 8.2), consider the system consisting of the rifle 
 Q8.19 An egg is released from rest from the roof of a building and falls to the ground. As the egg falls, what happens to the momentum of the system of the egg plus the earth?
 
 Q8.20 A woman stands in the middle of a perfectly smooth, frictionless, frozen lake. She can set herself in motion by throwing things, but suppose she has nothing to throw. Can she propel herself to shore without throwing anything?
+i am afraid not. without external forces on a frictionless place she would be stuck forever
 
 Q8.21 At the highest point in its parabolic trajectory, a shell explodes into two fragments. Is it possible for both fragments to fall straight down after the explosion? Why or why not?
+
+
 Q8.22 When an object breaks into two pieces (explosion, radioactive decay, recoil, etc.), the lighter fragment gets more kinetic energy than the heavier one. This is a consequence of momentum conservation, but can you also explain it by using Newton’s laws of motion?
 
 Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
