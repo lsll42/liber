@@ -93,14 +93,73 @@ TV picture tube with zero initial speed and travels in a straight line to the ac
 
 4.7 •• A 68.5 kg skater moving initially at 2.40 m>s on rough horizontal ice comes to rest uniformly in 3.52 s due to friction from the ice. What force does friction exert on the skater?
 
-
-
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
 
 you are pressing with a force of 665N to the elevator because of gravity, and the elevator exerts normal force of 655N on you too.
-
 
 4.9 • A box rests on a frozen pond, which serves as a frictionless horizontal surface. If a fisherman applies a horizontal force with magnitude 50.0 N to the box and produces an acceleration of magnitude 3.60 m>s , what is the mass of the box?
 
 f=ma , so the mass of the box is 13.8 kg
 
+Q8.1 In splitting logs with a hammer and wedge, is a heavy hammer more effective than a lighter hammer? Why?
+Q8.2 Suppose you catch a baseball and then someone invites you to catch a bowling ball with either the same momentum or the same kinetic energy as the baseball. Which would you choose? Explain.
+Ï
+
+Q8.3 When rain falls from the sky, what happens to its momentum as it hits the ground? Is your answer also valid for Newton’s famous apple? Q8.4 A car has the same kinetic energy when it is traveling south at 30 m>s as when it is traveling northwest at 30 m>s. Is the momentum of the car the same in both cases? Explain.
+
+Q8.5 A truck is accelerating as it speeds down the highway. One inertial frame of reference is attached to the ground with its origin at a fence post. A second frame of reference is attached to a police car that is traveling down the highway at constant velocity. Is the momentum of the truck the same in these two reference frames? Explain. Is the rate of change of the truck’s momentum the same in these two frames? Explain.
+
+Q8.6 (a) If the momentum of a single point object is equal to zero, must the object’s kinetic energy also be zero? (b) If the momentum of a pair
+
+of point objects is equal to zero, must the kinetic energy of those objects also be zero? (c) If the kinetic energy of a pair of point objects is equal to zero, must the momentum of those objects also be zero? Explain your reasoning in each case.
+
+Q8.7 A woman holding a large rock stands on a frictionless, horizontal sheet of ice. She throws the rock with speed v0 at an angle a above the horizontal. Consider the system consisting of the woman plus the rock. Is the momentum of the system conserved? Why or why not? Is any component of the momentum of the system conserved? Again, why or why not?
+
+Q8.8 In Example 8.7 (Section 8.3), where the two gliders of Fig. 8.18 stick together after the collision, the collision is inelastic because K2 6 K1. In Example 8.5 (Section 8.2), is the collision inelastic? Explain.
+
+Q8.9 In a completely inelastic collision between two objects, where the objects stick together after the collision, is it possible for the final kinetic energy of the system to be zero? If so, give an example in which this would occur. If the final kinetic energy is zero, what must the initial momentum of the system be? Is the initial kinetic energy of the system zero? Explain.
+
+Q8.10 Since for a particle the kinetic energy is given by K = 1 mv2 and S
+2
+S
+the momentum by P = mv, it is easy to show that K = p >2m. How, 2
+then, is it possible to have an event during which the total momentum of the system is constant but the total kinetic energy changes?
+Q8.11 In each of Examples 8.10, 8.11, and 8.12 (Section 8.4), verify
+
+that the relative velocity vector of the two objects has the same magnitude before and after the collision. In each case, what happens to the direction of the relative velocity vector?
+Q8.12 A glass dropped on the floor is more likely to break if the floor is concrete than if it is wood. Why? (Refer to Fig. 8.3b.)
+
+Q8.13 In Fig. 8.23b, the kinetic energy of the Ping-Pong ball is larger after its interaction with the bowling ball than before. From where does the extra energy come? Describe the event in terms of conservation of energy.
+
+Q8.14 A machine gun is fired at a steel plate. Is the average force on the plate from the bullet impact greater if the bullets bounce off or if they are squashed and stick to the plate? Explain.
+Force exerted onto the plate would be more if the bullets didn't bounce off; energy in the system is constant and bouncing uses energy.
+
+Q8.15 A net external force of 4 N acts on an object initially at rest for 0.25 s and gives it a final speed of 5 m>s. How could a net external force of 2 N produce the same final speed?
+
+
+Q8.16 A net external force with x-component gF acts on an Q8.17 A tennis player hits a tennis ball with a racket. Consider the system made up of the ball and the racket. Is the total momentum of the
+
+system the same just before and just after the hit? Is the total momentum just after the hit the same as 2 s later, when the ball is in midair at the high point of its trajectory? Explain any differences between the two cases.
+
+Q8.18 In Example 8.4 (Section 8.2), consider the system consisting of the rifle plus the bullet. What is the speed of the system’s center of mass after the rifle is fired? Explain.
+Q8.19 An egg is released from rest from the roof of a building and falls to the ground. As the egg falls, what happens to the momentum of the system of the egg plus the earth?
+
+Q8.20 A woman stands in the middle of a perfectly smooth, frictionless, frozen lake. She can set herself in motion by throwing things, but suppose she has nothing to throw. Can she propel herself to shore without throwing anything?
+
+Q8.21 At the highest point in its parabolic trajectory, a shell explodes into two fragments. Is it possible for both fragments to fall straight down after the explosion? Why or why not?
+Q8.22 When an object breaks into two pieces (explosion, radioactive decay, recoil, etc.), the lighter fragment gets more kinetic energy than the heavier one. This is a consequence of momentum conservation, but can you also explain it by using Newton’s laws of motion?
+
+Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
+
+Q8.24 Two pieces of clay collide and stick together. During the collision, which of these statements are true? (a) Only the momentum of the clay is conserved; (b) only the total mechanical energy of the clay is conserved; (c) both the momentum and the total mechanical energy of the clay are conserved; (d) the kinetic energy of the clay is conserved. Q8.25 Two objects of mass M and 5M are at rest on a horizontal, frictionless table with a compressed spring of negligible mass between them. When the spring is released, which of the following statements are true? (a) The two objects receive equal magnitudes of momentum;
+
+Problems 291 (b) the two objects receive equal amounts of kinetic energy from the
+
+spring; (c) the heavier object gains more kinetic energy than the lighter object; (d) the lighter object gains more kinetic energy than the heavier object. Explain your reasoning in each case.
+Q8.26 A very heavy SUV collides head-on with a very light compact car. Which of these statements about the collision are correct? (a) The amount of kinetic energy lost by the SUV is equal to the amount of kinetic energy gained by the compact; (b) the amount of momentum lost by the SUV is equal to the amount of momentum gained by the compact; (c) the compact feels a considerably greater force during the collision than the SUV does; (d) both cars lose the same amount of kinetic energy.
+
+EXERCISES
+
+Section 8.1 Momentum and Impulse
+8.1 • (a) What is the magnitude of the momentum of a 10,000 kg truck whose speed is 12.0 m>s? (b) What speed would a 2000 kg SUV have to attain in order to have (i) the same momentum? (ii) the same kinetic energy?
+8.2 • In a certain track and field event, the shotput has a mass of 7.50 kg and is released with a speed of 16.0 m>s at 40.0° above the horizontal over a competitor’s straight left leg. What are the initial horizontal and vertical components of the momentum of this shotput?
