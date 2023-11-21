@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-laws
 ## physics-laws
 ### physics-laws
 #### physics-laws
