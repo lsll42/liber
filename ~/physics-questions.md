@@ -135,9 +135,9 @@ Q8.14 A machine gun is fired at a steel plate. Is the average force on the plate
 Force exerted onto the plate would be more if the bullets didn't bounce off; energy in the system is constant and bouncing uses energy.
 
 Q8.15 A net external force of 4 N acts on an object initially at rest for 0.25 s and gives it a final speed of 5 m>s. How could a net external force of 2 N produce the same final speed?
+the force would need to act on the object for 0.5 s
 
-
-Q8.16 A net external force with x-component gF acts on an Q8.17 A tennis player hits a tennis ball with a racket. Consider the system made up of the ball and the racket. Is the total momentum of the
+Q8.17 A tennis player hits a tennis ball with a racket. Consider the system made up of the ball and the racket. Is the total momentum of the
 
 system the same just before and just after the hit? Is the total momentum just after the hit the same as 2 s later, when the ball is in midair at the high point of its trajectory? Explain any differences between the two cases.
 
