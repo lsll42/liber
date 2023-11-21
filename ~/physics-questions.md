@@ -72,8 +72,6 @@ Q4.19 A person can dive into water from a height of 10 m without injury, but a p
 Q4.20 Why are cars designed to crumple in front and back for safety? Why not for side collisions and rollovers?
 Q4.21 When a string barely strong enough lifts a heavy weight, it can lift the weight by a steady pull; but if you jerk the string, it will break. Explain in terms of Newton’s laws of motion.
 
-Q4.16 Students sometimes say that the force of gravity on an object is 2
-
 Q4.36 In a head-on collision between a compact 1000 kg car and a large 2500 kg car, which one experiences the greater force? Explain. Which one experiences the greater acceleration? Explain why. Why are passengers in the small car more likely to be injured than those in the large car, even when the two car bodies are equally strong?
 
 Q4.37 Suppose you are in a rocket with no windows, traveling in deep space far from other objects. Without looking outside the rocket or making any contact with the outside world, explain how you could determine whether the rocket is (a) moving forward at a constant 80% of the speed of light and (b) accelerating in the forward direction.
@@ -103,7 +101,6 @@ f=ma , so the mass of the box is 13.8 kg
 
 Q8.1 In splitting logs with a hammer and wedge, is a heavy hammer more effective than a lighter hammer? Why?
 Q8.2 Suppose you catch a baseball and then someone invites you to catch a bowling ball with either the same momentum or the same kinetic energy as the baseball. Which would you choose? Explain.
-Ï
 
 Q8.3 When rain falls from the sky, what happens to its momentum as it hits the ground? Is your answer also valid for Newton’s famous apple? Q8.4 A car has the same kinetic energy when it is traveling south at 30 m>s as when it is traveling northwest at 30 m>s. Is the momentum of the car the same in both cases? Explain.
 
@@ -137,9 +134,7 @@ Force exerted onto the plate would be more if the bullets didn't bounce off; ene
 Q8.15 A net external force of 4 N acts on an object initially at rest for 0.25 s and gives it a final speed of 5 m>s. How could a net external force of 2 N produce the same final speed?
 the force would need to act on the object for 0.5 s
 
-Q8.17 A tennis player hits a tennis ball with a racket. Consider the system made up of the ball and the racket. Is the total momentum of the
-
-system the same just before and just after the hit? Is the total momentum just after the hit the same as 2 s later, when the ball is in midair at the high point of its trajectory? Explain any differences between the two cases.
+Q8.17 A tennis player hits a tennis ball with a racket. Consider the system made up of the ball and the racket. Is the total momentum of the system the same just before and just after the hit? Is the total momentum just after the hit the same as 2 s later, when the ball is in midair at the high point of its trajectory? Explain any differences between the two cases.
 
 Q8.18 In Example 8.4 (Section 8.2), consider the system consisting of the rifle plus the bullet. What is the speed of the system’s center of mass after the rifle is fired? Explain.
 Q8.19 An egg is released from rest from the roof of a building and falls to the ground. As the egg falls, what happens to the momentum of the system of the egg plus the earth?
