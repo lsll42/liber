@@ -95,4 +95,9 @@ TV picture tube with zero initial speed and travels in a straight line to the ac
 
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
 
+
+
 4.9 • A box rests on a frozen pond, which serves as a frictionless horizontal surface. If a fisherman applies a horizontal force with magnitude 50.0 N to the box and produces an acceleration of magnitude 3.60 m>s , what is the mass of the box?
+
+f=ma , so the mass of the box is 13.8 kg
+
