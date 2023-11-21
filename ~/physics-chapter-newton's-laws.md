@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-chapter-newton's-laws
 ## physics-chapter-newton's-laws
 
 what causes objects to move the way that they do?

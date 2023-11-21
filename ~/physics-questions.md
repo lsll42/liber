@@ -143,9 +143,11 @@ Q8.20 A woman stands in the middle of a perfectly smooth, frictionless, frozen l
 i am afraid not. without external forces on a frictionless place she would be stuck forever
 
 Q8.21 At the highest point in its parabolic trajectory, a shell explodes into two fragments. Is it possible for both fragments to fall straight down after the explosion? Why or why not?
-
+well, no, since the words "explosion" suggests that some force was applied between the two fragments, so they cannot fall the exact same way.
 
 Q8.22 When an object breaks into two pieces (explosion, radioactive decay, recoil, etc.), the lighter fragment gets more kinetic energy than the heavier one. This is a consequence of momentum conservation, but can you also explain it by using Newton’s laws of motion?
+according to the third law, objects always exert same force upon each other after an interaction. this same force 
+
 
 Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
 
