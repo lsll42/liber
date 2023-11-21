@@ -146,7 +146,7 @@ Q8.21 At the highest point in its parabolic trajectory, a shell explodes into tw
 well, no, since the words "explosion" suggests that some force was applied between the two fragments, so they cannot fall the exact same way.
 
 Q8.22 When an object breaks into two pieces (explosion, radioactive decay, recoil, etc.), the lighter fragment gets more kinetic energy than the heavier one. This is a consequence of momentum conservation, but can you also explain it by using Newton’s laws of motion?
-according to the third law, objects always exert same force upon each other after an interaction. this same force 
+according to the third law, objects always exert same force upon each other after an interaction. this force can give more kinetic energy to the lighter fragment even though the force applied are the same because kinetic energy is calculated with $0.5*m*v^2$ and the lighter fragment has more velocity due to smaller mass
 
 
 Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
@@ -163,3 +163,6 @@ EXERCISES
 Section 8.1 Momentum and Impulse
 8.1 • (a) What is the magnitude of the momentum of a 10,000 kg truck whose speed is 12.0 m>s? (b) What speed would a 2000 kg SUV have to attain in order to have (i) the same momentum? (ii) the same kinetic energy?
 8.2 • In a certain track and field event, the shotput has a mass of 7.50 kg and is released with a speed of 16.0 m>s at 40.0° above the horizontal over a competitor’s straight left leg. What are the initial horizontal and vertical components of the momentum of this shotput?
+
+
+
