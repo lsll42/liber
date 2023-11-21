@@ -150,6 +150,8 @@ according to the third law, objects always exert same force upon each other afte
 
 
 Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
+the momentum of the apple is not conserved because its velocity changes, along with its kinetic energy. total mechanical energy is conserved because there are no external forces other than gravity, which is a conservative force.
+
 
 Q8.24 Two pieces of clay collide and stick together. During the collision, which of these statements are true? (a) Only the momentum of the clay is conserved; (b) only the total mechanical energy of the clay is conserved; (c) both the momentum and the total mechanical energy of the clay are conserved; (d) the kinetic energy of the clay is conserved. Q8.25 Two objects of mass M and 5M are at rest on a horizontal, frictionless table with a compressed spring of negligible mass between them. When the spring is released, which of the following statements are true? (a) The two objects receive equal magnitudes of momentum;
 
