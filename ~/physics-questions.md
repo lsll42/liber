@@ -42,25 +42,8 @@ Q4.11 Why is the earth only approximately an inertial reference frame? Q4.12 Doe
 
 Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion. Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain. Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls? Q4.25 True or false? You exert a push P on an object and it pushes back on you with a force F. If the object is moving at constant velocity, then F is equal to P, but if the object is being accelerated, then P must be greater than F.
 
-Q4.26 A large truck and a small compact car have a head-on collision. During the collision, the truck exerts a force FS on the car, and the
-
 Q4.13 Some students refer to the quantity maS as “the force of acceleration.” Is it correct to refer to this quantity as a force? If so, what exerts this force? If not, what is a better description of this quantity?
 Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained? Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
-
-S T on C
-car exerts a force FC on T on the truck. Which force has the larger magnitude, or are they the same? Does your answer depend on how fast each vehicle was moving before the collision? Why or why not?
-Q4.27 When a car comes to a stop on a level road, what force causes it to slow down? When the car increases its speed on the same road, what force causes it to speed up? Explain.
-Q4.28 A small compact car is pushing a large van that has broken down, and they travel along the road with equal velocities and accelerations. While the car is speeding up, is the force it exerts on the van larger than, smaller than, or the same magnitude as the force the van exerts on it? Which vehicle has the larger net force on it, or are the net forces the same? Explain.
-Q4.29 Consider a tug-of-war between two people who pull in opposite directions on the ends of a rope. By Newton’s third law, the force that A exerts on B is just as great as the force that B exerts on A. So what determines who wins? (Hint: Draw a free-body diagram showing all the forces that act on each person.)
-Q4.30 Boxes A and B are in contact
-on a horizontal, frictionless surface.
-You push on box A with a horizon-
-tal 100 N force (Fig. Q4.31). Box A
-weighs 150 N, and box B weighs 50
-N. Is the force that box A exerts on
-box B equal to 100 N, greater than 100 N, or less than 100 N? Explain. Q4.31 A manual for student pilots contains this passage: “When an airplane flies at a steady altitude, neither climbing nor descending, the upward lift force from the wings equals the plane’s weight. When the plane is climbing at a steady rate, the upward lift is greater than the weight; when the plane is descending at a steady rate, the upward lift is less than the weight.” Are these statements correct? Explain.
-Q4.32 If your hands are wet and no towel is handy, you can remove some of the excess water by shaking them. Why does this work?
-Q4.33 If you squat down (such as when you examine the books on a bottom shelf) and then suddenly get up, you may temporarily feel light-headed. What do Newton’s laws of motion have to say about why this happens? Q4.34 When a car is hit from behind, the occupants may experience whiplash. Use Newton’s laws of motion to explain what causes this result. Q4.35 In a head-on auto collision, passengers who are not wearing seat belts may be thrown through the windshield. Use Newton’s laws of motion to explain why this happens.
 
 ### exercises 4
 
@@ -148,10 +131,8 @@ well, no, since the words "explosion" suggests that some force was applied betwe
 Q8.22 When an object breaks into two pieces (explosion, radioactive decay, recoil, etc.), the lighter fragment gets more kinetic energy than the heavier one. This is a consequence of momentum conservation, but can you also explain it by using Newton’s laws of motion?
 according to the third law, objects always exert same force upon each other after an interaction. this force can give more kinetic energy to the lighter fragment even though the force applied are the same because kinetic energy is calculated with $0.5*m*v^2$ and the lighter fragment has more velocity due to smaller mass
 
-
 Q8.23 An apple falls from a tree and feels no air resistance. As it is falling, which of these statements about it are true? (a) Only its momentum is conserved; (b) only its total mechanical energy is conserved; (c) both its momentum and its total mechanical energy are conserved; (d) its kinetic energy is conserved.
 the momentum of the apple is not conserved because its velocity changes, along with its kinetic energy. total mechanical energy is conserved because there are no external forces other than gravity, which is a conservative force.
-
 
 Q8.24 Two pieces of clay collide and stick together. During the collision, which of these statements are true? (a) Only the momentum of the clay is conserved; (b) only the total mechanical energy of the clay is conserved; (c) both the momentum and the total mechanical energy of the clay are conserved; (d) the kinetic energy of the clay is conserved. Q8.25 Two objects of mass M and 5M are at rest on a horizontal, frictionless table with a compressed spring of negligible mass between them. When the spring is released, which of the following statements are true? (a) The two objects receive equal magnitudes of momentum;
 
@@ -165,6 +146,3 @@ EXERCISES
 Section 8.1 Momentum and Impulse
 8.1 • (a) What is the magnitude of the momentum of a 10,000 kg truck whose speed is 12.0 m>s? (b) What speed would a 2000 kg SUV have to attain in order to have (i) the same momentum? (ii) the same kinetic energy?
 8.2 • In a certain track and field event, the shotput has a mass of 7.50 kg and is released with a speed of 16.0 m>s at 40.0° above the horizontal over a competitor’s straight left leg. What are the initial horizontal and vertical components of the momentum of this shotput?
-
-
-
