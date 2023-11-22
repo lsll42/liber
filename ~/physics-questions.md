@@ -146,3 +146,177 @@ EXERCISES
 Section 8.1 Momentum and Impulse
 8.1 • (a) What is the magnitude of the momentum of a 10,000 kg truck whose speed is 12.0 m>s? (b) What speed would a 2000 kg SUV have to attain in order to have (i) the same momentum? (ii) the same kinetic energy?
 8.2 • In a certain track and field event, the shotput has a mass of 7.50 kg and is released with a speed of 16.0 m>s at 40.0° above the horizontal over a competitor’s straight left leg. What are the initial horizontal and vertical components of the momentum of this shotput?
+
+
+Q9.1 Which of the following formulas is valid if the angular acceleration of an object is not constant? Explain your reasoning in each case. (a) v=rv; (b) atan =ra; (c) v=v0 +at; (d) atan =rv2; (e)K = 1Iv2.
+
+
+
+Q9.3 What is the difference between tangential and radial acceleration for a point on a rotating body?  
+Q9.4 In Fig. Q9.4, all points on the chain have the same linear speed. Is the magnitude of the linear acceleration also the same for all points on the chain? How are the angular accelerations of the two sprockets related? Explain.
+
+Q9.5 In Fig. Q9.4, how are the radial accelerations of points at the teeth of the two sprockets related? Explain.  
+Q9.6 A flywheel rotates with constant angular velocity. Does a point on its rim have a tangential acceleration? A radial acceleration? Are these accelerations constant in magnitude? In direction? In each case give your reasoning.
+
+Q9.7 What is the purpose of the spin cycle of a washing machine? Explain in terms of acceleration components.  
+Q9.8 You are designing a flywheel to store kinetic energy. If all of the following uniform objects have the same mass and same angular veloc- ity, which one will store the greatest amount of kinetic energy? Which will store the least? Explain. (a) A solid sphere of diameter D rotating about a diameter; (b) a solid cylinder of diameter D rotating about an axis perpendicular to each face through its center; (c) a thin-walled hol- low cylinder of diameter D rotating about an axis perpendicular to the plane of the circular face at its center; (d) a solid, thin bar of length D rotating about an axis perpendicular to it at its center.
+
+322 CHAPTER 9 Rotation of Rigid Bodies
+
+Q9.9 Can you think of a body that has the same moment of inertia for all possible axes? If so, give an example, and if not, explain why this is not possible. Can you think of a body that has the same moment of in- ertia for all axes passing through a certain point? If so, give an example and indicate where the point is located
+
+
+
+Q9.10 To maximize the moment of inertia of a flywheel while mini- mizing its weight, what shape and distribution of mass should it have? Explain.  
+Q9.11 How might you determine experimentally the moment of inertia of an irregularly shaped body about a given axis?
+
+Q9.12 A cylindrical body has mass M and radius R. Can the mass be distributed within the body in such a way that its moment of inertia about its axis of symmetry is greater than MR2? Explain.  
+Q9.13 Describe how you could use part (b) of Table 9.2 to derive the result in part (d).
+
+Q9.14 A hollow spherical shell of radius R that is rotating about an axis through its center has rotational kinetic energy K. If you want to modify this sphere so that it has three times as much kinetic energy at the same angular speed while keeping the same mass, what should be its radius in terms of R?
+
+Q9.15 For the equations for I given in parts (a) and (b) of Table 9.2 to be valid, must the rod have a circular cross section? Is there any re- striction on the size of the cross section for these equations to apply? Explain.
+
+Q9.16 In part (d) of Table 9.2, the thickness of the plate must be much less than a for the expression given for I to apply. But in part (c), the expression given for I applies no matter how thick the plate is. Explain. Q9.17 Two identical balls, A and B, are each attached to very light string, and each string is wrapped around the rim of a pulley of mass M on a frictionless axle. The only difference is that the pulley for ball A is a solid disk, while the one for ball B is a hollow disk, like part (e) in Table 9.2. If both balls are released from rest and fall the same distance, which one will have more kinetic energy, or will they have the same kinetic energy? Explain your reasoning.
+
+Q9.22 Estimate your own moment of inertia about a vertical axis through the center of the top of your head when you are standing up straight with your arms outstretched. Make reasonable approximations and measure or estimate necessary quantities.
+
+EXERCISES
+
+Section 9.1 Angular Velocity and Acceleration
+
+Q9.18 An elaborate pulley consists of four identical balls at the ends of spokes extending out from a rotating drum (Fig. Q9.18). A box is connected to a light, thin rope wound around the rim of the drum. When it is released from rest, the box acquires a speed V after having fallen a distance d. Now the four balls are moved inward closer to the drum, and the box is again released from rest. After it has fallen a distance d, will its speed be equal to V, greater than V, or less than V? Show or explain why.
+
+Figure Q9.18
+
+Drum
+
+(a) Calculate the angular velocity of the merry-go-round as a function of time. (b) What is the initial value of the angular velocity? (c) Calculate the instantaneous value of the angular velocity vz at t = 4.55 s and the average angular velocity vav@z for the time interval t = 0 to t = 4.55 s. Show that vav@z is not equal to the average of the instantaneous angular velocities at t = 0 and t = 4.55 s, and explain.
+
+9.1 • (a) What angle in radians is subtended by an arc 1.57 m long on the circumference of a circle of radius 2.45 m? What is this angle in de- grees? (b) An arc 13.3 cm long on the circumference of a circle subtends an angle of 125°. What is the radius of the circle? (c) The angle between two radii of a circle with radius 1.60 m is 0.800 rad. What length of arc is intercepted on the circumference of the circle by the two radii?
+
+9.2 • An airplane propeller is rotating at 1860 rpm 1rev>min2.
+
+(a) Compute the propeller’s angular velocity in rad>s. (b) How many
+
+seconds does it take for the propeller to turn through 40°?
+
+tion vz1t2 = A + Bt , where t is in seconds and A and B are constants having numerical values 2.75 (for A) and 1.60 (for B). (a) What are the units of A and B if vz is in rad>s? (b) What is the angular acceleration of the wheel at (i) t = 0 and (ii) t = 2.50 s? (c) Through what angle does the flywheel turn during the first 1.80 s? (Hint: See Section 2.6.)
+
+9.3 • CP CALC The angular velocity of a flywheel obeys the equa- 2
+
+vz1t2 = g - bt , where g = 4.85rad>s and b = 0.790rad>s . (a) Calculate the angular acceleration as a function of time. (b) Calculate the instantaneous angular acceleration az at t = 3.50 s and the average angular acceleration aav@z for the time interval t = 0 to t = 3.50 s. How do these two quantities compare? If they are different, why?
+
+9.4 •• CALC A fan blade rotates with angular velocity given by 23
+
+9.5 •• CALC A child is pushing a merry-go-round. The angle through which the merry-go-round has turned varies with time according to
+
+3 -23 u1t2 = gt + bt , where g = 0.428 rad>s and b =1.00 * 10 rad>s .
+
+9.6 • CALC At t = 0 the current to a dc electric motor is reversed, resulting in an angular displacement of the motor shaft given by
+
+22 33  
+u1t2 = 1241 rad>s2t - 120.2 rad>s 2t - 11.51 rad>s 2t . (a) At what time
+
+Q9.19 You can use any angular measure—radians, degrees, or revolutions—in some of the equations in Chapter 9, but you can use only radian measure in others. Identify those for which using radians is neces- sary and those for which it is not, and in each case give your reasoning. Q9.20 When calculating the moment of inertia of an object, can we treat all its mass as if it were concentrated at the center of mass of the object? Justify your answer.
+
+Q9.21 A wheel is rotating about an axis perpendicular to the plane of the wheel and passing through the center of the wheel. The angular speed of the wheel is increasing at a constant rate. Point A is on the rim of the wheel and point B is midway between the rim and center of the wheel. For each of the following quantities, is its magnitude larger at point A or at point B, or is it the same at both points? (a) Angular speed; (b) tangential speed; (c) angular acceleration; (d) tangential accelera- tion; (e) radial acceleration. Justify each answer.
+
+u1t2 = a + bt - ct , where a, b, and c are constants, t is in seconds, and u is in radians. When t = 0, u = p>4 rad and the angular velocity is 2.30 rad>s. When t = 1.20 s, the angular acceleration is 1.30 rad>s2. (a) Find a, b, and c, including their units. (b) What is the angular ac- celeration when u = p>4 rad? (c) What are u and the angular velocity when the angular acceleration is 4.20 rad>s2?
+
+Box
+
+is the angular velocity of the motor shaft zero? (b) Calculate the angular acceleration at the instant that the motor shaft has zero angular velocity. (c) How many revolutions does the motor shaft turn through between the time when the current is reversed and the instant when the angular velocity is zero? (d) How fast was the motor shaft rotating at t = 0, when the current was reversed? (e) Calculate the average angular velocity for the time period from t = 0 to the time calculated in part (a).
+
+9.7 • CALC The angle u through which a disk drive turns is given by 3
+
+9.8 • A wheel is rotating about an axis that is in the z-direction. The angular velocity vz is -6.00 rad>s at t = 0, increases linearly with time, and is +4.00 rad>s at t = 7.00 s. We have taken counterclockwise rota- tion to be positive. (a) Is the angular acceleration during this time inter- val positive or negative? (b) During what time interval is the speed of the wheel increasing? Decreasing? (c) What is the angular displacement of the wheel at t = 7.00 s?
+
+9.9 • A bicycle wheel has an initial angular velocity of 1.35 rad>s. 2
+
+Section 9.2 Rotation with Constant Angular Acceleration
+
+9.19 • Spin cycles of washing machines remove water from clothes by producing a large radial acceleration at the rim of the cylindrical tub that holds the water and clothes. Estimate the diameter of the tub in a typical home washing machine. (a) What is the rotation rate, in rev>min, of the tub during the spin cycle if the radial acceleration of points on the tub wall is 3g? (b) At this rotation rate, what is the tangential speed in m>s of a point on the tub wall?
+
+(a) If its angular acceleration is constant and equal to 0.310 rad>s , what is its angular velocity at t = 2.65 s? (b) Through what angle has the wheel turned between t = 0 and t = 2.65 s?  
+9.10 •• An electric fan is turned off, and its angular velocity de- creases uniformly from 550 rev>min to 210 rev>min in 4.40 s. (a) Find the angular acceleration in rev>s2 and the number of revolutions made by the motor in the 4.40 s interval. (b) How many more seconds are re- quired for the fan to come to rest if the angular acceleration remains con- stant at the value calculated in part (a)?
+
+9.20 • Compact Disc. A compact disc (CD) stores music in a coded pattern of tiny pits 10-7 m deep. The pits are arranged in a track that spirals outward toward the rim of the disc; the inner and outer radii of this spiral are 25.0 mm and 58.0 mm, respectively. As the disc spins inside a CD player, the track is scanned at a constant linear speed of 1.25 m>s. (a) What is the angular speed of the CD when the innermost part of the track is scanned? The outermost part of the track? (b) The maximum playing time of a CD is 74.0 min. What would be the length of the track on such a maximum-duration CD if it were stretched out in a straight line? (c) What is the average angular acceleration of a maximum-duration CD during its 74.0 min playing time? Take the di- rection of rotation of the disc to be positive.
+
+celeration 1.59 rad>s . (a) How much time does it take to reach an angular velocity of 36.1 rad>s, starting from rest? (b) Through how many revolu- tions does the blade turn in this time interval?  
+9.12 •• A wheel rotates from rest with constant angular acceleration. If it rotates through 8.00 revolutions in the first 2.50 s, how many more revolutions will it rotate through in the next 5.00 s?
+
+9.11 •• The rotating blade of a blender turns with constant angular ac- 2
+
+2  
+9.13 •• A turntable rotates with a constant 2.50 rad>s angular
+
+with a constant angular acceleration of 3.50 rad>s . Compute the radial
+
+acceleration. After 4.15 s it has rotated through an angle of 61.0 rad. What was the angular velocity of the wheel at the beginning of the 4.15 s interval?  
+9.14 • A circular saw blade 0.180 m in diameter starts from rest. In 6.35 s it accelerates with constant angular acceleration to an angular ve- locity of 148 rad>s. Find the angular acceleration and the angle through which the blade has turned.
+
+9.21 •• A wheel of diameter 20.0 cm starts from rest and rotates 2
+
+9.15 •• A high-speed flywheel in a motor is spinning at 500 rpm when a power failure suddenly occurs. The flywheel has mass 44.0 kg and diameter 71.0 cm. The power is off for 34.0 s, and during this time the flywheel slows due to friction in its axle bearings. During the time the power is off, the flywheel makes 170 complete revolutions. (a) At what rate is the flywheel spinning when the power comes back on? (b) How long after the beginning of the power failure would it have taken the flywheel to stop if the power had not come back on, and how many revolutions would the wheel have made during this time?
+
+ets of cement from the ground to a rooftop 78.0 m above the ground. The buckets will be attached to a hook on the free end of a cable that wraps around the rim of the axle; as the axle turns, the buckets will rise. (a) What should the diameter of the axle be in order to raise the buckets at a steady 2.00 cm>s when it is turning at 7.5 rpm? (b) If instead the axle must give the buckets an upward acceleration of 0.400 m>s2, what should the angular acceleration of the axle be?
+
+9.16 •• At t = 0 a grinding wheel has an angular velocity of 27.0 rad>s. 2
+
+the diameter of a typical saw that is used to saw boards in home con-
+
+It has a constant angular acceleration of 31.0 rad>s until a circuit breaker trips at t = 2.50 s. From then on, it turns through 430 rad as it coasts to a stop at constant angular acceleration. (a) Through what total angle did the wheel turn between t = 0 and the time it stopped? (b) At what time did it stop? (c) What was its acceleration as it slowed down? 9.17 •• A safety device brings the blade of a power mower from an ini- tial angular speed of v1 to rest in 1.00 revolution. At the same constant acceleration, how many revolutions would it take the blade to come to rest from an initial angular speed v3 that was three times as great, v3 = 3v1?
+
+the rim of the circular saw blade?
+
+Section 9.3 Relating Linear and Angular Kinematics
+
+9.26 • At t = 3.00 s a point on the rim of a 0.200-m-radius wheel has a tangential speed of 50.0 m>s as the wheel slows down with a tan- gential acceleration of constant magnitude 10.0 m>s2. (a) Calculate the wheel’s constant angular acceleration. (b) Calculate the angular veloci- ties at t = 3.00 s and t = 0. (c) Through what angle did the wheel turn between t = 0 and t = 3.00 s? (d) At what time will the radial accelera- tion equal g?
+
+9.18 • In a charming 19th-century hotel,
+
+an old-style lift is connected to a counter-
+
+weight by a cable that passes over a rotat-
+
+ing disk 3.00 m in diameter (Fig. E9.18).
+
+The lift is raised and lowered by turning
+
+the disk, and the cable does not slip on
+
+Figure E9.18
+
+Disk
+
+Counterweight
+
+acceleration of a point on the rim for the instant the wheel completes
+
+2 (b)a =v>r.
+
+its second revolution from the relationship (a) a = v2r and
+
+rad  
+9.22 You are to design a rotating cylindrical axle to lift 800 N buck-
+
+rad
+
+••
+
+9.23 The blade of an electric saw rotates at 2600 rev>min. Estimate •
+
+struction and renovation. What is the linear speed in m>s of a point on
+
+fixed axis with an initial angular velocity of 0.280 rev>s and a constant angular acceleration of 0.891 rev>s2. (a) Compute the angular velocity of the turntable after 0.203 s. (b) Through how many revolutions has the turntable spun in this time interval? (c) What is the tangential speed of a point on the rim of the turntable at t = 0.203 s? (d) What is the mag- nitude of the resultant acceleration of a point on the rim at t = 0.203 s? 9.25 •• Centrifuge. An advertisement claims that a centrifuge takes up only 0.127 m of bench space but can produce a radial acceleration of 2600g at 4330 rev>min. Calculate the required radius of the centrifuge. Is the claim realistic?
+
+9.24 An electric turntable 0.720 m in diameter is rotating about a ••
+
+Problems 323
+
+the rim of the disk but turns with it.
+
+to raise the lift at 20.0 cm>s? (b) To start
+
+9.27 • A rotating wheel with diameter 0.600 m is speeding up with constant angular acceleration. The speed of a point on the rim of the wheel increases from 3.00 m>s to 6.00 m>s while the wheel turns through 4.00 revolutions. What is the angular acceleration of the wheel? 9.28 • The earth is approximately spherical, with a diameter of 1.27 * 107 m. It takes 24.0 hours for the earth to complete one revolution. What are the tangential speed and radial acceleration of a point on the surface of the earth, at the equator?
