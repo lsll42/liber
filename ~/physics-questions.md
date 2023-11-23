@@ -208,24 +208,10 @@ Section 6.2 Kinetic Energy and the Work–Energy Theorem
 
 6.18 •• A baseball has a mass of 0.145 kg. (a) In batting practice a batter hits a ball that is sitting at rest on top of a post. The ball leaves the post with a horizontal speed of 30.0 m>s. How much work did the force applied by the bat do on the ball? (b) During a game the same batter swings at a ball thrown by the pitcher and hits it in such a way that the ball moves away from him horizontally. Just before the ball is hit it is traveling at a speed of 20.0 m>s, and just after it is hit it is traveling in the opposite direction at a speed of 30.0 m>s. What is the total work done on the baseball by the force exerted by the bat? (c) How do the results of parts (a) and (b) compare? Explain.
 
-6.19 • Chicxulub impact. About 66 million years ago, an asteroid
-
-crashed into Earth near the present-day town of Chicxulub in Mexico
-
-(Yukatán Peninsula.) The impact produced a crater of about 180 km in
 
 6.25 • A sled with mass 8.50 kg moves in a straight line on a frictionless, horizontal surface. At one point in its path, its speed is 4.20 m>s; after it has traveled 2.30 m beyond this point, its speed is 5.60 m>s. Use the work–energy theorem to find the force acting on the sled, assuming that this force is constant and that it acts in the direction of the sled’s motion. 6.26 •• A football with mass 0.470 kg is initially moving with speed 2.10 m>s. A football player kicks the ball, exerting a constant force of magnitude 41.0 N in the same direction as the ball’s motion. Over what distance must the player’s foot be in contact with the ball to increase the ball’s speed to 6.00 m>s?
 
-diameter and its effects are believed to have caused a massive extinction of
-
 6.27 • A 12-pack of Omni-Cola (mass 4.30 kg) is initially at rest on a horizontal floor. It is then pushed in a straight line for 1.20 m by a trained dog that exerts a horizontal force with magnitude 36.0 N. Use the work–energy theorem to find the final speed of the 12-pack if (a) there is no friction between the 12-pack and the floor, and (b) the coefficient of kinetic friction between the 12-pack and the floor is 0.30. 6.28 •• A block of ice with mass 2.00 kg slides 1.35 m down an inclined plane that slopes downward at an angle of 36.9° below the horizontal. If the block of ice starts from rest, what is its final speed? Ignore friction. 6.29 • Object A has 27 J of kinetic energy. Object B has one-quarter the mass of object A. (a) If object B also has 27 J of kinetic energy, is it moving faster or slower than object A? By what factor? (b) By what factor does the speed of each object change if total work - 18 J is done on each? 6.30 •• A 36.0 kg crate is initially moving with a velocity that has
-
-plant and animal groups, including dinosaurs. According to recent simula-
-15 >
-
-tions (2019), the asteroid had a mass of about 2.4 * 10 kg and a velocity of about 20 km>s. (a) How much kinetic energy did this meteor deliver to the ground? (b) How does this energy compare to the energy released by a
-
-magnitude 3.73 m s in a direction 37.0° west of north. How much work must be done on the crate to change its velocity to 5.40 m>s in a direction 63.0° south of east?
 
 6.31 • Stopping Distance. A car is traveling on a level road with speed v0 at the instant when the brakes lock, so that the tires slide rather than roll. (a) Use the work–energy theorem to calculate the minimum stopping distance of the car in terms of v0, g, and the coefficient of kinetic friction mk between the tires and the road. (b) By what factor would the minimum stopping distance change if (i) the coefficient of kinetic friction were doubled, or (ii) the initial speed were doubled, or (iii) both the coefficient of kinetic friction and the initial speed were doubled?
 
