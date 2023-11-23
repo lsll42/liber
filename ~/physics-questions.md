@@ -197,6 +197,9 @@ clockwise from the + x-axis. How much work does this force do during a SS
 
 6.24 •• You throw a 3.00 N rock vertically into the air from ground level. You observe that when it is 15.0 m above the ground, it is traveling at 25.0 m>s upward. Use the work–energy theorem to find (a) the rock’s speed just as it left the ground and (b) its maximum height.
 
+
+
+
 Section 6.2 Kinetic Energy and the Work–Energy Theorem
 
 6.16 •• A 1.50 kg book is sliding along a rough horizontal surface. At point A it is moving at 3.21 m>s, and at point B it has slowed to 1.25 m>s. (a) How much total work was done on the book between A and B? (b) If -0.750 J of total work is done on the book from B to C, how fast is it moving at point C? (c) How fast would it be moving at C if +0.750 J of total work was done on it from B to C?
