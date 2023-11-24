@@ -26,7 +26,7 @@ Q4.6 You tie a brick to the end of a rope and whirl the brick around you in a ho
 without the tension of the rope the brick would accelerate towards the direction of the rope when it was released.
 
 Q4.7 When a car stops suddenly, the passengers tend to move forward relative to their seats. Why? When a car makes a sharp turn, the passengers tend to slide to one side of the car. Why?
-inertia; see Q4.4
+this is because of inertia; see Q4.4
 
 Q4.8 Some people say that the “force of inertia” (or “force of momentum”) throws the passengers forward when a car brakes sharply. What is wrong with this explanation?
 the change in acceleration causes this, not inertia.
@@ -38,9 +38,19 @@ the bus acceleration changes so that ball moves
 Q4.10 Suppose you chose the fundamental physical quantities to be force, length, and time instead of mass, length, and time. What would be the units of mass in terms of those fundamental quantities?
 newtons
 
-Q4.11 Why is the earth only approximately an inertial reference frame? Q4.12 Does Newton’s second law hold true for an observer in a van as it speeds up, slows down, or rounds a corner? Explain.
+Q4.11 Why is the earth only approximately an inertial reference frame?
+non-inertial effects can be caused by the earth's rotation and orbit around the sun; this leads to the presence of centrifugal forces, which are considered fictitious forces
 
-Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion. Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain. Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls? Q4.25 True or false? You exert a push P on an object and it pushes back on you with a force F. If the object is moving at constant velocity, then F is equal to P, but if the object is being accelerated, then P must be greater than F.
+Q4.12 Does Newton’s second law hold true for an observer in a van as it speeds up, slows down, or rounds a corner? Explain.
+newton's second law says that the force acting on an object is equal to the mass of t
+
+Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion.
+
+Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain.
+
+Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls?
+
+Q4.25 True or false? You exert a push P on an object and it pushes back on you with a force F. If the object is moving at constant velocity, then F is equal to P, but if the object is being accelerated, then P must be greater than F.
 
 Q4.13 Some students refer to the quantity maS as “the force of acceleration.” Is it correct to refer to this quantity as a force? If so, what exerts this force? If not, what is a better description of this quantity?
 Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained? Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
@@ -197,9 +207,6 @@ clockwise from the + x-axis. How much work does this force do during a SS
 
 6.24 •• You throw a 3.00 N rock vertically into the air from ground level. You observe that when it is 15.0 m above the ground, it is traveling at 25.0 m>s upward. Use the work–energy theorem to find (a) the rock’s speed just as it left the ground and (b) its maximum height.
 
-
-
-
 Section 6.2 Kinetic Energy and the Work–Energy Theorem
 
 6.16 •• A 1.50 kg book is sliding along a rough horizontal surface. At point A it is moving at 3.21 m>s, and at point B it has slowed to 1.25 m>s. (a) How much total work was done on the book between A and B? (b) If -0.750 J of total work is done on the book from B to C, how fast is it moving at point C? (c) How fast would it be moving at C if +0.750 J of total work was done on it from B to C?
@@ -208,10 +215,7 @@ Section 6.2 Kinetic Energy and the Work–Energy Theorem
 
 6.18 •• A baseball has a mass of 0.145 kg. (a) In batting practice a batter hits a ball that is sitting at rest on top of a post. The ball leaves the post with a horizontal speed of 30.0 m>s. How much work did the force applied by the bat do on the ball? (b) During a game the same batter swings at a ball thrown by the pitcher and hits it in such a way that the ball moves away from him horizontally. Just before the ball is hit it is traveling at a speed of 20.0 m>s, and just after it is hit it is traveling in the opposite direction at a speed of 30.0 m>s. What is the total work done on the baseball by the force exerted by the bat? (c) How do the results of parts (a) and (b) compare? Explain.
 
-
 6.25 • A sled with mass 8.50 kg moves in a straight line on a frictionless, horizontal surface. At one point in its path, its speed is 4.20 m>s; after it has traveled 2.30 m beyond this point, its speed is 5.60 m>s. Use the work–energy theorem to find the force acting on the sled, assuming that this force is constant and that it acts in the direction of the sled’s motion. 6.26 •• A football with mass 0.470 kg is initially moving with speed 2.10 m>s. A football player kicks the ball, exerting a constant force of magnitude 41.0 N in the same direction as the ball’s motion. Over what distance must the player’s foot be in contact with the ball to increase the ball’s speed to 6.00 m>s?
-
-
 
 6.27 • A 12-pack of Omni-Cola (mass 4.30 kg) is initially at rest on a horizontal floor. It is then pushed in a straight line for 1.20 m by a trained dog that exerts a horizontal force with magnitude 36.0 N. Use the work–energy theorem to find the final speed of the 12-pack if (a) there is no friction between the 12-pack and the floor, and (b) the coefficient of kinetic friction between the 12-pack and the floor is 0.30. 6.28 •• A block of ice with mass 2.00 kg slides 1.35 m down an inclined plane that slopes downward at an angle of 36.9° below the horizontal. If the block of ice starts from rest, what is its final speed? Ignore friction. 6.29 • Object A has 27 J of kinetic energy. Object B has one-quarter the mass of object A. (a) If object B also has 27 J of kinetic energy, is it moving faster or slower than object A? By what factor? (b) By what factor does the speed of each object change if total work - 18 J is done on each? 6.30 •• A 36.0 kg crate is initially moving with a velocity that has
 
@@ -884,3 +888,4 @@ the rim of the disk but turns with it.
 to raise the lift at 20.0 cm>s? (b) To start
 
 9.27 • A rotating wheel with diameter 0.600 m is speeding up with constant angular acceleration. The speed of a point on the rim of the wheel increases from 3.00 m>s to 6.00 m>s while the wheel turns through 4.00 revolutions. What is the angular acceleration of the wheel? 9.28 • The earth is approximately spherical, with a diameter of 1.27 * 107 m. It takes 24.0 hours for the earth to complete one revolution. What are the tangential speed and radial acceleration of a point on the surface of the earth, at the equator?
+
