@@ -211,6 +211,8 @@ Section 6.2 Kinetic Energy and the Work–Energy Theorem
 
 6.25 • A sled with mass 8.50 kg moves in a straight line on a frictionless, horizontal surface. At one point in its path, its speed is 4.20 m>s; after it has traveled 2.30 m beyond this point, its speed is 5.60 m>s. Use the work–energy theorem to find the force acting on the sled, assuming that this force is constant and that it acts in the direction of the sled’s motion. 6.26 •• A football with mass 0.470 kg is initially moving with speed 2.10 m>s. A football player kicks the ball, exerting a constant force of magnitude 41.0 N in the same direction as the ball’s motion. Over what distance must the player’s foot be in contact with the ball to increase the ball’s speed to 6.00 m>s?
 
+
+
 6.27 • A 12-pack of Omni-Cola (mass 4.30 kg) is initially at rest on a horizontal floor. It is then pushed in a straight line for 1.20 m by a trained dog that exerts a horizontal force with magnitude 36.0 N. Use the work–energy theorem to find the final speed of the 12-pack if (a) there is no friction between the 12-pack and the floor, and (b) the coefficient of kinetic friction between the 12-pack and the floor is 0.30. 6.28 •• A block of ice with mass 2.00 kg slides 1.35 m down an inclined plane that slopes downward at an angle of 36.9° below the horizontal. If the block of ice starts from rest, what is its final speed? Ignore friction. 6.29 • Object A has 27 J of kinetic energy. Object B has one-quarter the mass of object A. (a) If object B also has 27 J of kinetic energy, is it moving faster or slower than object A? By what factor? (b) By what factor does the speed of each object change if total work - 18 J is done on each? 6.30 •• A 36.0 kg crate is initially moving with a velocity that has
 
 6.31 • Stopping Distance. A car is traveling on a level road with speed v0 at the instant when the brakes lock, so that the tires slide rather than roll. (a) Use the work–energy theorem to calculate the minimum stopping distance of the car in terms of v0, g, and the coefficient of kinetic friction mk between the tires and the road. (b) By what factor would the minimum stopping distance change if (i) the coefficient of kinetic friction were doubled, or (ii) the initial speed were doubled, or (iii) both the coefficient of kinetic friction and the initial speed were doubled?
@@ -223,16 +225,6 @@ Section 6.3 Work and Energy with Varying Forces
 
 6.33 • Three identical 8.50 kg masses are hung by three identical springs (Fig. E6.33). Each spring has a force constant of 7.80 kN>m and was 12.0 cm long before any masses were attached to it. (a) Draw a free-body diagram of each mass. (b) How long is each spring when hanging as shown? (Hint: First isolate only the bottom mass. Then treat the bottom two masses as a system. Finally, treat all three masses as a system.)
 
-Figure E6.33
-
-6.41•AforceFisappliedtoa Figure E6.41
-2.0-kg, radio-controlled model car
-parallel to the x-axis as it moves Fx (N)
-along a straight track. The x-com21 6 ponent of the force varies with the 0
-
-that has force constant k = 250 N>m and is compressed 0.021 m. The spring is released and accelerates the block along a horizontal surface. Ignore friction and the mass of the spring. (a) Calculate the work done on the block by the spring during the motion of the block from its initial position to where the spring has returned to its uncompressed length. (b) What is the speed of the block after it leaves the spring?S
-
-k
 6.40 • A 3.70-kg block of ice is placed against a horizontal spring
 
 Problems 223
