@@ -42,17 +42,22 @@ Q4.11 Why is the earth only approximately an inertial reference frame?
 non-inertial effects can be caused by the earth's rotation and orbit around the sun; this leads to the presence of centrifugal forces, which are considered fictitious forces
 
 Q4.12 Does Newton’s second law hold true for an observer in a van as it speeds up, slows down, or rounds a corner? Explain.
-newton's second law says that the force acting on an object is equal to the mass of t
+newton's second law says that the force acting on an object is equal to the mass of the object multiplied by its acceleration (F=ma). this holds true for the observer in the van because the inertial force does account for this law
 
 Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion.
+
 
 Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain.
 
 Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls?
+motion is relative to the ground, and the wagon has less friction on the ground compared to the horse, so the wagon moves
 
 Q4.25 True or false? You exert a push P on an object and it pushes back on you with a force F. If the object is moving at constant velocity, then F is equal to P, but if the object is being accelerated, then P must be greater than F.
+according to the second newton law, the forces acting on both objects are always the same, regardless of acceleration.
 
 Q4.13 Some students refer to the quantity maS as “the force of acceleration.” Is it correct to refer to this quantity as a force? If so, what exerts this force? If not, what is a better description of this quantity?
+
+
 Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained? Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
 
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
