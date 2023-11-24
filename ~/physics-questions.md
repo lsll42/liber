@@ -56,9 +56,13 @@ Q4.25 True or false? You exert a push P on an object and it pushes back on you w
 according to the second newton law, the forces acting on both objects are always the same, regardless of acceleration.
 
 Q4.13 Some students refer to the quantity maS as “the force of acceleration.” Is it correct to refer to this quantity as a force? If so, what exerts this force? If not, what is a better description of this quantity?
+maS is known as force due to acceleration or net force. a better description of this would be the force due to acceleration or net force.
+
+Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained?
 
 
-Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained? Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
+
+Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
 
 Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Must the big rock hurt more? Explain.
 Bid rocks have more mass and therefore a greater amount of force is needed to accelerate it.
