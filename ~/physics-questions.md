@@ -46,7 +46,6 @@ newton's second law says that the force acting on an object is equal to the mass
 
 Q4.22 A large crate is suspended from the end of a vertical rope. Is the tension in the rope greater when the crate is at rest or when it is moving upward at constant speed? If the crate is traveling upward, is the tension in the rope greater when the crate is speeding up or when it is slowing down? In each case, explain in terms of Newton’s laws of motion.
 
-
 Q4.23 Which feels a greater pull due to the earth’s gravity: a 10 kg stone or a 20 kg stone? If you drop the two stones, why doesn’t the 20 kg stone fall with twice the acceleration of the 10 kg stone? Explain.
 
 Q4.24 A horse is hitched to a wagon. Since the wagon pulls back on the horse just as hard as the horse pulls on the wagon, why doesn’t the wagon remain in equilibrium, no matter how hard the horse pulls?
@@ -59,8 +58,6 @@ Q4.13 Some students refer to the quantity maS as “the force of acceleration.�
 maS is known as force due to acceleration or net force. a better description of this would be the force due to acceleration or net force.
 
 Q4.14 The acceleration of a falling object is measured in a lift that is traveling upward at a constant speed of 9.8 m>s. What value is obtained?
-
-
 
 Q4.15 You can play catch with a softball in a bus moving with constant speed on a straight road, just as though the bus were at rest. Is this still possible when the bus is making a turn at constant speed on a level road? Why or why not?
 
@@ -897,4 +894,3 @@ the rim of the disk but turns with it.
 to raise the lift at 20.0 cm>s? (b) To start
 
 9.27 • A rotating wheel with diameter 0.600 m is speeding up with constant angular acceleration. The speed of a point on the rim of the wheel increases from 3.00 m>s to 6.00 m>s while the wheel turns through 4.00 revolutions. What is the angular acceleration of the wheel? 9.28 • The earth is approximately spherical, with a diameter of 1.27 * 107 m. It takes 24.0 hours for the earth to complete one revolution. What are the tangential speed and radial acceleration of a point on the surface of the earth, at the equator?
-
