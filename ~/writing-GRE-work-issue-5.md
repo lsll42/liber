@@ -3,7 +3,7 @@ aliases:
 links: ["[[writing-GRE]]"]
 tags: 
 ---
-# writing-work-GRE-issue-5
+# writing-GRE-work-issue-5
 
 In any field of inquiry, the beginner is more likely than the expert to make important contributions. Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
 
@@ -45,11 +45,11 @@ Overall there are solid points on both sides of this issue, and I do not have a 
 
 > Searching the web for: `beginner vs expert contributions in any field of inquiry`
 
-[1]: https://collegedunia.com/news/e-483-the-beginner-is-more-likely-than-the-expert-to-make-important-contributions-gre-issue-essay ""
-[2]: https://extempour.wordpress.com/2012/01/26/in-any-field-of-inquiry-the-beginner-is-more/ ""
-[3]: https://www.testbig.com/gmatgre-essays/any-field-inquiry-beginner-more-likely-expert-make-important-contributions-write ""
-[4]: https://www.freesampleessays.com/posts/in-any-field-of-inquiry-the-beginner-is-more-likely-than-the-expert-to-make-important-contributions/ ""
-[5]: https://medium.com/@bingwu8655/gre-issue-1-615d4ea671fd ""
+[1]: <https://collegedunia.com/news/e-483-the-beginner-is-more-likely-than-the-expert-to-make-important-contributions-gre-issue-essay> ""
+[2]: <https://extempour.wordpress.com/2012/01/26/in-any-field-of-inquiry-the-beginner-is-more/> ""
+[3]: <https://www.testbig.com/gmatgre-essays/any-field-inquiry-beginner-more-likely-expert-make-important-contributions-write> ""
+[4]: <https://www.freesampleessays.com/posts/in-any-field-of-inquiry-the-beginner-is-more-likely-than-the-expert-to-make-important-contributions/> ""
+[5]: <https://medium.com/@bingwu8655/gre-issue-1-615d4ea671fd> ""
 
 This is an interesting statement. I believe that the extent to which the statement holds true depends on the field of inquiry and the definition of "important contributions". In some fields, beginners may have a fresh perspective and be more willing to take risks, which can lead to innovative ideas and breakthroughs. For example, in the field of technology, many successful start-ups were founded by young entrepreneurs who were not experts in their field but had a unique vision and approach. However, in other fields such as medicine or engineering, expertise and experience are crucial for making important contributions. For instance, a beginner surgeon may not be able to perform complex surgeries as well as an experienced surgeon who has performed hundreds of surgeries.
 

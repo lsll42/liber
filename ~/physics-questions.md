@@ -65,13 +65,22 @@ Q4.17 Why can it hurt your foot more to kick a big rock than a small pebble? Mus
 Bid rocks have more mass and therefore a greater amount of force is needed to accelerate it.
 
 Q4.18 “It’s not the fall that hurts you; it’s the sudden stop at the bottom.” Translate this saying into the language of Newton’s laws of motion.
+the acceleration towards the ground cannot hurt you but when you hit the ground the ground will exert a great amount of force on you which means that you'll hurt
+
 Q4.19 A person can dive into water from a height of 10 m without injury, but a person who jumps off the roof of a 10-m-tall building and lands on a concrete street is likely to be seriously injured. Why is there a difference?
+as a liquid, water has flexible properties that can slow down your velocity as you fall down which makes you safe
+
 Q4.20 Why are cars designed to crumple in front and back for safety? Why not for side collisions and rollovers?
+well, cars are mostly likely to crash into something or get crashed into by something on the front and back sides, not the sides.
+
 Q4.21 When a string barely strong enough lifts a heavy weight, it can lift the weight by a steady pull; but if you jerk the string, it will break. Explain in terms of Newton’s laws of motion.
+the tension of the string is only able to support a certain amount of force. as you jerk the string, the gravity accelerates the weight more, which would cause a greater force to act upon the string
 
 Q4.36 In a head-on collision between a compact 1000 kg car and a large 2500 kg car, which one experiences the greater force? Explain. Which one experiences the greater acceleration? Explain why. Why are passengers in the small car more likely to be injured than those in the large car, even when the two car bodies are equally strong?
+they experience the same force. the small car experiences more acceleration because it has less mass and therefore more acceleration. passengers in the small car are more likely to get injured because the velocity is greater.
 
 Q4.37 Suppose you are in a rocket with no windows, traveling in deep space far from other objects. Without looking outside the rocket or making any contact with the outside world, explain how you could determine whether the rocket is (a) moving forward at a constant 80% of the speed of light and (b) accelerating in the forward direction.
+
 
 4.1 •• Two dogs pull horizontally on ropes attached to a post; the angle between the ropes is 51.0°. If Rover exerts a force of 288 N and Fido exerts a force of 324 N, find the magnitude of the resultant force
 
@@ -116,7 +125,7 @@ Figure Q6.8 (a) m
 Q6.9 A force FS is in the x-direction and has a magnitude that depends on x. Sketch a possible graph of F versus x such that the force does zero work on an object that moves from x1 to x2, even though the force magnitude is not zero at all x in this range.
 
 Q6.10 Does a car’s kinetic energy change more when the car speeds up from 10 to 15 m>s or from 15 to 20 m>s? Explain.
-Q6.11 A falling brick has a mass of 1.5 kg and is moving straight downward with a speed of 5.0 m>s. A 1.5 kg physics book is sliding across the floor with a speed of 5.0 m>s. A 1.5 kg melon is traveling with a horizontal velocity component 3.0 m>s to the right and a vertical component 4.0 m>s upward. Do all of these objects have the same velocity? Do all of them have the same kinetic energy? For both questions, give your reasoning.
+Q6.11 A falling brick has a mass of 1.5 kg and is moving straight downward with a speed of 5.0 m>s. A 1.5 kg physics book is sliding across the floor with a speed of 5.0 m>s. A 1.5 kg melon is traveling with a horizontal velocity component 3.0 m>s to the right and a vertical component 4.0 m>s upward. Do all of these objects have the same velocity? Do all of them have the same ≈kinetic energy? For both questions, give your reasoning.
 
 Q6.12 Can the total work done on an object during a displacement be negative? Explain. If the total work is negative, can its magnitude be larger than the initial kinetic energy of the object? Explain.
 Q6.13 A net force acts on an object and accelerates it from rest to a speed v1. In doing so, the force does an amount of work W1. By what factor must the work done on the object be increased to produce three times the final speed, with the object again starting from rest?
