@@ -80,14 +80,10 @@ Q4.36 In a head-on collision between a compact 1000 kg car and a large 2500 kg c
 they experience the same force. the small car experiences more acceleration because it has less mass and therefore more acceleration. passengers in the small car are more likely to get injured because the velocity is greater.
 
 Q4.37 Suppose you are in a rocket with no windows, traveling in deep space far from other objects. Without looking outside the rocket or making any contact with the outside world, explain how you could determine whether the rocket is (a) moving forward at a constant 80% of the speed of light and (b) accelerating in the forward direction.
-
+you cannot know the speed of the rocket without knowing about the outside, but you can sense a change in acceleration by feeling if you're pressed back to your seat due to acceleration change
 
 4.1 •• Two dogs pull horizontally on ropes attached to a post; the angle between the ropes is 51.0°. If Rover exerts a force of 288 N and Fido exerts a force of 324 N, find the magnitude of the resultant force
-
-and the angle it makes with Rover’s rope.
-4.2 • To extricate an SUV stuck in the mud, workmen use three horizontal ropes, producing the force vectors shown in Fig. E4.2. (a) Find the xand y-components of each of the three pulls. (b) Use the components to find the magnitude and direction of the resultant of the three pulls.
-
-SSS 4.5 • Forces F1 and F2 act at a point. The magnitude of F1 is 8.00 N, and its direction is 64.0° above the x-axis in the second quadrant. The magnitude of F2 is 5.40 N, and its direction is 53.9° below the x-axis in the third quadrant. (a) What are the xand y-components of the resultant force? (b) What is the magnitude of the resultant force?
+the resultant force would be 36N towards Fido
 
 Section 4.3 Newton’s Second Law
 
