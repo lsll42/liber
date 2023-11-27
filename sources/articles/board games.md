@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# board games
 ## board games
 
 This article is about board games, how they are designed and played, but most importantly how they are talked about. My goal in writing it is to help people who give reviews of board games to give better ones. My thesis will be that games produce certain subjective qualities of experience, and that a good board game review should analyze and expose these subjective qualities in an objective way.
