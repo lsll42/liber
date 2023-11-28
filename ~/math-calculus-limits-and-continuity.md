@@ -3,8 +3,8 @@ aliases:
 links: 
 tags: 
 ---
-## math-calculus-limits-and-continuity
-### math-calculus-limits-and-continuity
+# math-calculus-limits-and-continuity
+
 
 #### intro
 
