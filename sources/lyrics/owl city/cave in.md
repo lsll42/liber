@@ -14,15 +14,11 @@ And hide all my loose change in my bedroll
 'Cause riding a dirt bike down a turn pike
 Always takes its toll on me
 
-
-
 I've had just about enough
 Of quote "diamonds in the rough"
 Because my backbone is paper thin
 Get me out of this cavern or I'll cave in
 (or I'll cave in, or I'll cave in...)
-
-
 
 If the bombs go off the sun will still be shining
 (The sun will still be shining)
@@ -34,8 +30,6 @@ Swallow a drop of gravel and blacktop
 The wind and the rain smell of oil and octane
 Mixed with stale gasoline
 
-
-
 I'll soak up the sound
 Try to sleep on the wet ground
 I'll get ten minutes give or take
@@ -43,16 +37,10 @@ I'll get ten minutes give or take
 When cold integrity keeps me wide awake
 (Awake, awake, awake, awake...)
 
-
-
 Get me out of this cavern or I'll cave in
 (Cave in, cave in, cave in, cave in...)
 
-
-
 Get me out of this cavern or I'll cave in
-
-
 
 I'll keep my helmet on
 Just in case my head caves in
@@ -65,11 +53,7 @@ So I stay on track (so I stay on track)
 And if my intentions stray I'll wrench them away
 Then I'll take my leave and I won't even look back
 
-
-
 I won't even look back
-
-
 
 (Da da da da da da da da da da
 Da da da da da da da daaa...)
