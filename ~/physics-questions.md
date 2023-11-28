@@ -104,6 +104,7 @@ f=ma , so the mass of the box is 13.8 kg
 ## 6
 
 Q6.1 The sign of many physical quantities depends on the choice of coordinates. For example, ay for free-fall motion can be negative or positive, depending on whether we choose upward or downward as positive. Is the same true of work? In other words, can we make positive work negative by a different choice of coordinates? Explain.
+work is related to energy, and therefore cannot be a negative value as this measures the amount of energy needed to do something, which is always positive.
 
 Q6.2 A lift is hoisted by its cables at constant speed. Is the total work done on the lift positive, negative, or zero? Explain.
 Q6.3 A rope tied to an object is pulled, causing the object to accelerate. But according to Newton’s third law, the object pulls back on the rope with a force of equal magnitude and opposite direction. Is the total work done then zero? If so, how can the object’s kinetic energy change? Explain. Q6.4 If it takes total work W to give an object a speed v and kinetic energy K, starting from rest, what will be the object’s speed (in terms of v) and kinetic energy (in terms of K) if we do twice as much work on it, again starting from rest?
