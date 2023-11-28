@@ -1,4 +1,10 @@
+---
+aliases: 
+links: 
+tags: 
+---
 # they're made out of meat
+
 "They're made out of meat."
 
   "Meat?"
