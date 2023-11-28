@@ -5,7 +5,6 @@ tags:
 ---
 # math-calculus-limits-and-continuity
 
-
 #### intro
 
 we have this function:
