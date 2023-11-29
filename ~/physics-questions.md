@@ -90,7 +90,6 @@ we can use the equation $v_f=v_i+at$ to calculate the constant acceleration that
 we get -0.682m/s^2. this means that the friction is constantly decelerating the skater. to find out the force, we can times this by the mass of the skater to get -46.7N
 
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
-
 you are pressing with a force of 665N to the elevator because of gravity, and the elevator exerts normal force of 655N on you too.
 
 4.9 • A box rests on a frozen pond, which serves as a frictionless horizontal surface. If a fisherman applies a horizontal force with magnitude 50.0 N to the box and produces an acceleration of magnitude 3.60 m>s , what is the mass of the box?
