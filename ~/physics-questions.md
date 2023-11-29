@@ -85,13 +85,8 @@ you cannot know the speed of the rocket without knowing about the outside, but y
 4.1 •• Two dogs pull horizontally on ropes attached to a post; the angle between the ropes is 51.0°. If Rover exerts a force of 288 N and Fido exerts a force of 324 N, find the magnitude of the resultant force
 the resultant force would be 36N towards Fido
 
-Section 4.3 Newton’s Second Law
-
-4.6 • An electron 1mass = 9.11 * 10 kg2 leaves one end of a -31
-TV picture tube with zero initial speed and travels in a straight line to the accelerating grid, which is 1.80 cm away. It reaches the grid with a speed of 3.00 * 10 m>s. If the accelerating force is constant, compute 6
-(a) the acceleration; (b) the time to reach the grid; and (c) the net force, in newtons. Ignore the gravitational force on the electron.
-
 4.7 •• A 68.5 kg skater moving initially at 2.40 m>s on rough horizontal ice comes to rest uniformly in 3.52 s due to friction from the ice. What force does friction exert on the skater?
+
 
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
 

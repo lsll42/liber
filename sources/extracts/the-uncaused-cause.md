@@ -1,4 +1,10 @@
+---
+aliases: 
+links: 
+tags: 
+---
 # the-uncaused-cause
+
 ~ a short writing by unknowner
 
 It can be assumed that it came out of nothing. Mostly because its cause was unknown but also because in order to escape the paradox of creation and cause, something must have. It was the Uncaused Cause, a thing, an entity or just a form just a little more complex than nothingness. It would be known by different names in different bubbles caused by it's ripples. As it's ripples would spread across different bubbles they would cause variety among the bubbles, differentiating them with numbers and forms of - the most suitable and understandable word would be - dimensions, but no word can be used for them without loosing complete originality of the idea. 
