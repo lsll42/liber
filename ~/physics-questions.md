@@ -86,7 +86,8 @@ you cannot know the speed of the rocket without knowing about the outside, but y
 the resultant force would be 36N towards Fido
 
 4.7 •• A 68.5 kg skater moving initially at 2.40 m>s on rough horizontal ice comes to rest uniformly in 3.52 s due to friction from the ice. What force does friction exert on the skater?
-
+we can use the equation $v_f=v_i+at$ to calculate the constant acceleration that the ice has exerted on the skater
+we get -0.682m/s^2. this means that the friction is constantly decelerating the skater. to find out the force, we can times this by the mass of the skater to get -46.7N
 
 4.8 •• You walk into a lift, step onto a scale, and push the “up” button. You recall that your normal weight is 655 N. Draw a free-body diagram. (a) When the lift has an upward acceleration of magnitude 2.46 m>s , 2 what does the scale read? (b) If you hold a 3.65-kg package by a light vertical string, what will be the tension in this string when the lift accelerates as in part (a)?
 
