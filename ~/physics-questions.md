@@ -108,7 +108,6 @@ Q6.3 A rope tied to an object is pulled, causing the object to accelerate. But a
 
 Q6.5 If there is a net nonzero force on a moving object, can the total work done on the object be zero? Explain, using an example.
 
-
 Q6.6 In Example 5.5 (Section 5.1), how does the work done on the bucket by the tension in the cable compare with the work done on the cart by the tension in the cable?
 
 Q6.7 In the conical pendulum of Example 5.20 (Section 5.4), which of the forces do work on the bob while it is swinging?
