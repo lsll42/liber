@@ -11,3 +11,4 @@ the implication of this are:
 
 this means that it is impossible for an inertial observer to travel at the speed of light, c.
 
+`
