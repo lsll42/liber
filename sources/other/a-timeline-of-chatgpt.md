@@ -1,3 +1,8 @@
+---
+aliases: 
+links: 
+tags: 
+---
 # a-timeline-of-chatgpt
 
 ##### 2023
@@ -52,8 +57,8 @@
 |Mar 01|ChatGPT and Whisper APIs|Developers can now integrate ChatGPT and Whisper models into their apps and products through our API. [Source](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)|
 |Feb 07|Google Bard|Google presents its own AI chatbot called Bard, which is similar to ChatGPT. Google CEO Sundar Pichai says that Bard is more powerful and reliable than ChatGPT, as it draws on information from the web to provide fresh, high-quality responses. Bard is part of a series of tools based on generative artificial intelligence that Google launches to the market at this time.|
 |Feb 07|Bing ChatGPT|Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web. [Source](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)|
-|Feb 05|Anthropic/Claude|Google is investing $300M in an OpenAI challenger that will take on ChatGPT while focusing on A.I. safety. [Source](https://fortune.com/2023/02/04/google-invests-300m-anthropic-openai-rival-making-chatgpt-challenger-claude-ai-chatbot-battle/)|
-|Feb 02|100 million users|ChatGPT reaches 100 million users two months after launch. [Source](https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app)|
+|Feb 05|Anthropic/Claude|Google is investing $300M in an OpenAI challenger that will take on ChatGPT while focusing on A.I. safety. [Source](<https://fortune.com/2023/02/04/google-invests-300m-anthropic-openai-rival-making-chatgpt-challenger-claude-ai-chatbot-battle/>)|
+|Feb 02|100 million users|ChatGPT reaches 100 million users two months after launch. [Source](<https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app>)|
 |Feb 01|ChatGPT Plus|OpenAI launched a pilot subscription plan for ChatGPT. The new subscription plan, ChatGPT Plus, will be available for $20/month. [Source](https://openai.com/blog/chatgpt-plus)|
 |Jan 26|ChatGPT|ChatGPT passes exams from law and business schools. [Source](https://edition.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html)|
 |Jan 14|Microsoft|Microsoft in talks to acquire a 49% stake in ChatGPT owner OpenAI. [Source](https://watcher.guru/news/microsoft-plans-to-acquire-a-49-stake-in-chatgpt-owner-openai)|
