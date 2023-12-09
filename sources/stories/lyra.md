@@ -9,7 +9,7 @@ tags:
 **One day a young angel, only three and a half billion years old,** very naive, with limited experience of the wide universe and eager for more, was called over by one of her elder brothers. “I have a special mission for you,” he said. “It is said that Life has appeared somewhere in the universe, in accordance with the purpose and timing of the Almighty. It is your task to seek out this Life, and when you find it, tell us so that we may visit the planet to nurture and guide it.”
 
 The young angel, whose name was Lyra, was overjoyed with this assignment, and she set out immediately.
-
+ac
 A little while later she returned and told her big brother what she’d found. “I came upon a great cloud of dust and light,” she said, breathlessly. “I bent in very close to look at the particles interacting—the atoms and electrons and things—and they danced and interweaved so prettily, with such ever-shifting complexity, that I thought it surely must be Life.”
 
 “Oh no, no,” replied the older angel. “That wasn’t Life. It was only a nebula—just some of the machinery of the universe.” Undaunted, Lyre resumed her search.
