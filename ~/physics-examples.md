@@ -3,6 +3,7 @@ aliases:
 links: 
 tags: 
 ---
+# physics-examples
 ## physics-examples
 
 #momentum #mass #velocity
