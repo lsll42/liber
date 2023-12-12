@@ -1,7 +1,7 @@
 ---
 aliases: 
 links: 
-tags: 
+tags:
 ---
 # physics-other
 
@@ -67,3 +67,12 @@ tags:
 
 Fluid physics provides the foundation for understanding how liquids and gases behave, encompassing properties like pressure, flow, and buoyancy. From Archimedes' Principle to Bernoulli's Equation, these principles find applications in diverse fields, from aviation to medicine. Advancements in fluid dynamics continue to unravel complexities and improve systems across various industries.
 
+Basically, i would have to type some things in here for the time being, i hope you understand.
+
+the thing is, this obsidian vault gets automatically published to github every 20 minutes so this isn't the best place to write stuff that i don't want published...
+
+but it should be alright as long as i be careful and not accidentally paste anything into here haha
+
+anyways, i thought that z
+
+Also, the magnetic fields could
