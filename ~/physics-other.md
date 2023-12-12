@@ -76,6 +76,10 @@ but it should be alright as long as i be careful and not accidentally paste anyt
 anyways, i thought that i should write in my journal more often but sometimes i forget :/
 writing in my journal is one of the most important things to me, 
 
-when you look into a physics book and find all those concepts that seem absolutely daunting, you get really tempted to just give up and do something else. "why would you ever use thing kinda stuff?" you ask yourself. uhh, yes, there is a very small chance that self-learning some things in advance
+when you look into a physics book and find all those concepts that seem absolutely daunting, you get really tempted to just give up and do something else. "why would you ever use thing kinda stuff?" you ask yourself. uhh, yes, there is a very small chance that self-learning some things in advance could help you with your education stuff later into high school, but you don't have to force yourself. find out what you're interested in, and try to make most out of being forced to self-learn things in advance. have you ever wondered how something works? do research into that topic for hours and hours, slap the stamp on, and call it a successful day of self-learning something that you are interested about. one such example would be to spend weeks and weeks on researching the information about explosions, and write 5 papers on the chemical reaction and compound choices... just joking, but you get the idea - something that you would like to know about is worth doing, no matter how hard it might be.
+
+when times get difficult and you have to study furiously about hard to digest stuff, try to get the most out of it but good luck...
+
+
 
 Also, the magnetic fields could
