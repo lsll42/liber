@@ -73,6 +73,9 @@ the thing is, this obsidian vault gets automatically published to github every 2
 
 but it should be alright as long as i be careful and not accidentally paste anything into here haha
 
-anyways, i thought that z
+anyways, i thought that i should write in my journal more often but sometimes i forget :/
+writing in my journal is one of the most important things to me, 
+
+when you look into a physics book and find all those concepts that seem absolutely daunting, you get really tempted to just give up and do something else. "why would you ever use thing kinda stuff?" you ask yourself. uhh, yes, there is a very small chance that self-learning some things in advance
 
 Also, the magnetic fields could
