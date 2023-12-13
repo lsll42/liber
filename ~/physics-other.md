@@ -80,6 +80,7 @@ when you look into a physics book and find all those concepts that seem absolute
 
 when times get difficult and you have to study furiously about hard to digest stuff, try to get the most out of it but good luck...
 
+when you feel detached from the world, dfiting through the sky without any particular meaning or purpose, you feel that horrible feeling that you are in fact all alone in the world. "why must it be like this?", you think, "why is it just me who feels this way?"
 
 
 Also, the magnetic fields could
