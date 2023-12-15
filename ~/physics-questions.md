@@ -902,3 +902,7 @@ the rim of the disk but turns with it.
 to raise the lift at 20.0 cm>s? (b) To start
 
 9.27 • A rotating wheel with diameter 0.600 m is speeding up with constant angular acceleration. The speed of a point on the rim of the wheel increases from 3.00 m>s to 6.00 m>s while the wheel turns through 4.00 revolutions. What is the angular acceleration of the wheel? 9.28 • The earth is approximately spherical, with a diameter of 1.27 * 107 m. It takes 24.0 hours for the earth to complete one revolution. What are the tangential speed and radial acceleration of a point on the surface of the earth, at the equator?
+
+the wheel was doing some things and made sure that the stuff that happened
+
+the story should be in progress right now,
