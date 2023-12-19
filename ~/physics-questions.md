@@ -751,10 +751,6 @@ Q9.11 How might you determine experimentally the moment of inertia of an irregul
 Q9.12 A cylindrical body has mass M and radius R. Can the mass be distributed within the body in such a way that its moment of inertia about its axis of symmetry is greater than MR2? Explain.
 Q9.13 Describe how you could use part (b) of Table 9.2 to derive the result in part (d).
 
-
-
-
-
 Q9.14 A hollow spherical shell of radius R that is rotating about an axis through its center has rotational kinetic energy K. If you want to modify this sphere so that it has three times as much kinetic energy at the same angular speed while keeping the same mass, what should be its radius in terms of R?
 
 Q9.15 For the equations for I given in parts (a) and (b) of Table 9.2 to be valid, must the rod have a circular cross section? Is there any restriction on the size of the cross section for these equations to apply? Explain.
