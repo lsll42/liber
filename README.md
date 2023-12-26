@@ -13,11 +13,7 @@ please take a deep breath and read this...
 
 ## what this vault is about
 
-explore
-
-study
-
-learn
+this vault is dedicated to the storage of all my academic notes.
 
 ## types of pages
 
